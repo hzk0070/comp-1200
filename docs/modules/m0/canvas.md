@@ -1,4 +1,4 @@
-# Hands-On: Canvas
+# Getting Started With Canvas
 
 [Instructure Canvas](https://www.instructure.com/canvas/higher-education) is
 the learning management system (LMS) used by Auburn, and it is utilized
