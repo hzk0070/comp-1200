@@ -71,9 +71,9 @@ Here are some actions that can lead to smart, efficient work:
 
 # Theory and Practice
 
-> Theory and practice are not mutually exclusive; they are intimately connected. They live together and support each other. Computer science is a field where theory and practice come together more than in any other discipline, because of the nature of computing machines.
+> If you find that you’re spending almost all your time on theory, start turning some attention to practical things; it will improve your theories. If you find that you’re spending almost all your time on practice, start turning some attention to theoretical things; it will improve your practice.
 >
-> - [Don Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) in ["Theory and Practice"](https://doi.org/10.1016/0304-3975(91)90295-D) 
+> - [Don Knuth](https://en.wikipedia.org/wiki/Donald_Knuth) as quoted by Arturo Gonzalez-Gutierrez in *Minimum-length Corridors: Complexity and Approximations* 
 
 You will hopefully come to see and appreciate how theory and practice blend
 and influence and support each other in this course. For now, though, let me
@@ -86,8 +86,8 @@ One of the most neglected activities, however, is *doing*. Don't just read the
 notes, *do* the notes. Is there an algorithm being discussed in the notes? Do
 it. Implement the algorithm and make it work. Is there code being discussed in
 the notes? Do it. Implement the code and make it work. It's great to know that
-it's possible to decide if a given value is in a large collection of value by
-examining no more than approximately *log*<sub>2</sub> of the values (theory),
+it's possible to decide if a given value is in a large collection of values by
+examining no more than approximately *log*<sub>2</sub> values (theory),
 but knowing that isn't very useful unless you can write the code to do it
 (practice).
 
