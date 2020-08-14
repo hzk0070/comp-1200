@@ -68,4 +68,13 @@ Since each content module has the same structure, you can apply the same process
 
 ![worflow](img/workflow.png)
 
-Notice the iterative nature of the items in the *Work & Learn* [swimlane](https://en.wikipedia.org/wiki/Swim_lane). Rather than going through this portion of the module sequentially, I strongly encourage you to take an [iterative](https://en.wikipedia.org/wiki/Iteration) approach. Read a portion of the notes, then watch the associated lecture videos, and then do the associated hands-on activities (if any). I also suggest that you start the assignment near the beginning of the module and interleave your work on the assignment with the notes/lecture/hands-on cycle. Since most assignments are based on material covered in previous modules, this interleaving is easy to do.
+Notice the iterative nature of the items in the *Work & Learn*
+[swimlane](https://en.wikipedia.org/wiki/Swim_lane). Rather than going through
+this portion of the module sequentially, I strongly encourage you to take an
+[iterative](https://en.wikipedia.org/wiki/Iteration) approach. Read a portion
+of the eBook, engage with Participation Activities, watch the associated
+lecture videos, engage with a Challenge Activity, and so on. Although graded
+items are not due until the end of a module, I strongly encourage you to start
+work early, applying the workflow above consistently each day rather than trying
+to get everything done at once near the deadline.
+
