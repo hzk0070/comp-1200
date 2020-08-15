@@ -8,10 +8,8 @@ less text than a normal textbook, and use pedagogical approaches that have demon
 The course zyBook is tightly integrated into the Canvas course, and a
 substantial portion of your graded assignments come from the zyBook.
 Therefore, you should consider this as a **required** resource for this course
-and you should [**opt in**]() to this resource in 
+and you should **not** opt out of this resource in 
 [All Access](https://www.aubookstore.com/t-textbook_allaccess.aspx). 
-
-Information about opting in, opting out, refunds, etc. for All Access resources is linked [here]().
 
 ## Accessing Your zyBook
 
@@ -31,12 +29,14 @@ address will be passed to zyBooks establishing a link between your "copy" of
 the zyBook and your Canvas account. This will allow points you earn in the
 zyBook to be recorded in the Canvas gradebook. The first time you visit that
 page, zyBooks will present a screen through which you subscribe to the course
-zyBook using the access code provided in the email referenced above. Once you
-enter this access code, the cost of the zyBook will be posted to your AU eBill
-and you will be able to access the course zyBook for the period indicated on
+zyBook using the access code provided in the email referenced above. Since
+this course participates in the All Access program, the cost of the zyBook
+will be posted to your AU eBill and, once you subscribe using your access
+code, you will be able to access the course zyBook for the period indicated on
 the subscription screen.
 
-
+Information about opting in, opting out, refunds, etc. for All Access
+resources is linked [here]().
 
 
 
