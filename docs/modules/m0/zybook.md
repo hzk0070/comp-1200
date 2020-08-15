@@ -15,7 +15,7 @@ Information about opting in, opting out, refunds, etc. for All Access resources 
 
 ## Accessing Your zyBook
 
-You should have received an email on Sunday, August 17 from
+You should have received an email on Sunday, August 16 from
 `noreply@auburn.edu` regarding purchasing access to the zyBook through the All
 Access program. You will need the access code provided in that email to access
 the course zyBook for the first time.
