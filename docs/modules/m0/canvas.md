@@ -17,7 +17,7 @@ Take the following steps to familiarize yourself with Canvas.
 
 	- Click the *Show by Date* button to see a reverse-chronological listing of all graded items.
 	- Click the *Show By Type* button to see a listing of all graded items organized into course grading categories. Notice that the weight of each category is displayed.
-	- Click in the *Search for Assignment* text box and search for a particular item. For example, enter "MO: zyBook Activites" in the search box and press the Enter key.
+	- Click in the *Search for Assignment* text box and search for a particular item. For example, enter "MO: zyBook Activities" in the search box and press the Enter key.
 
 1. Click on **Grades** in the left menu. This page in Canvas allows you to check your current grades as well as do a what-if analysis on ungraded items. To familiarize yourself with this page in Canvas, do the following:
 
@@ -27,5 +27,26 @@ Take the following steps to familiarize yourself with Canvas.
 	- Toggle the *Show All Details* on and off to see what information is displayed.
 	- Explore and exercise the what-if analysis feature by changing the score on some graded item. Notice how Canvas updates your projected grade to reflect your entered what-if score. Reload the page and see how Canvas resets the what-if score to its real value, but adds a button to allow you to review the what-if score you had entered.
 
+
+## Time Zone Setting
+
+Times for all course events (assignment deadlines, exam times, etc.) will be
+set in US [Central Time](https://www.timeanddate.com/time/zones/ct), which may
+not correspond to the time zone in which you will be living and studying this
+fall. You are responsible for meeting deadlines in Central Time regardless of
+what your local time zone may be. You may find it helpful to follow the
+instructions linked
+[here](https://community.canvaslms.com/t5/Student-Guide/How-do-I-set-a-time-zone-in-my-user-account-as-a-student/ta-p/414)
+to have Canvas show deadlines appropriately in your local time zone to avoid
+any confusion.
+
+
+## Announcement Notification Setting
+
+You are responsible for the information in all course announcements. Follow
+the steps in the video
+[linked here](https://community.canvaslms.com/videos/1072) to set your notifications
+preferences and specify that all course alerts are routed to your Auburn
+University email address (`userid@auburn.edu`). 
 
 
