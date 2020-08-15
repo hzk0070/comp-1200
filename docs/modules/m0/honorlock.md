@@ -22,6 +22,7 @@ Here are recommended best-practices for taking exams with HonorLock.
 - Install the HonorLock extension prior to each exam and uninstall it after each exam is over.
 - Select a location and time that will help ensure your environment is as quiet and distraction-free as possible to take your exam.
 - Ensure you have a stable network connection with sufficient bandwidth before starting your exam.
+- Use your Auburn University [Tiger Card](http://www.auburn.edu/administration/tigercard/index.html) as your official photo ID as required by Honorlock. Only if you don't have your Tiger Card with your photo on it will you need to use a government-issued ID such as a driver's license, passport, or military ID.
 
 Be sure to take the practice HonorLock quiz on the following page to ensure
 you are familiar with the process that you will be required to use for a real

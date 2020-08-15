@@ -15,21 +15,26 @@ Information about opting in, opting out, refunds, etc. for All Access resources 
 
 ## Accessing Your zyBook
 
+Do **not** go directly to the zyBook website and create a new account.
+Instead, your zyBook account will be automatically created when you access and
+subscribe to the zyBook by clicking on a link to the zyBook provided in this
+course in Canvas.
+
 You should have received an email on Sunday, August 16 from
 `noreply@auburn.edu` regarding purchasing access to the zyBook through the All
 Access program. You will need the access code provided in that email to access
 the course zyBook for the first time.
 
-The next section in this module is a link to the Table of Contents of the
-course zyBook. When you visit this page in Canvas, your name and email address
-will be passed to zyBooks establishing a link between your "copy" of the
-zyBook and your Canvas account. This will allow points you earn in the zyBook
-to be recorded in the Canvas gradebook. The first time you visit this page,
-zyBooks will present a screen through which you subscribe to the course zyBook
-using the access code provided in the email referenced above. Once you enter
-this access code, the cost of the zyBook will be posted to your AU eBill and
-you will be able to access the course zyBook for the period indicated on the
-subscription screen.
+The next section in this module is a direct link to the Table of Contents of
+the course zyBook. When you visit that page in Canvas, your name and email
+address will be passed to zyBooks establishing a link between your "copy" of
+the zyBook and your Canvas account. This will allow points you earn in the
+zyBook to be recorded in the Canvas gradebook. The first time you visit that
+page, zyBooks will present a screen through which you subscribe to the course
+zyBook using the access code provided in the email referenced above. Once you
+enter this access code, the cost of the zyBook will be posted to your AU eBill
+and you will be able to access the course zyBook for the period indicated on
+the subscription screen.
 
 
 
