@@ -115,6 +115,8 @@ course.
 
 ## Instructor
 
+<img src="https://www.gravatar.com/avatar/c21a731fe002707ed7ceee3a651dcfb1" />
+
 ### Hugh Kwon
 
 Ph.D. Candidate  
@@ -124,7 +126,7 @@ Auburn University
 345 West Magnolia Ave  
 Auburn, AL 36849  
 +1 334 844 4330  
-`hzl0070@auburn.edu`  
+`hzk0070@auburn.edu`  
 <http://eng.auburn.edu/csse>  
 <https://auburn.zoom.us/my/hughkwon>  
 
@@ -151,18 +153,101 @@ Auburn, AL 36849
 
 GTA | Email | Lab Section | Office Hours
 --- | ----- | ------- | ------------
-Mousumi Akter | `mza0170@auburn.edu` | TBA | TBA 
-Michael Alcorn | `alcorma@auburn.edu` | TBA | TBA 
+Mousumi Akter   | `mza0170@auburn.edu` | TBA | TBA 
+Michael Alcorn  | `alcorma@auburn.edu` | TBA | TBA 
 Akolade Asipade | `aia0004@auburn.edu` | TBA | TBA 
-Naman Bansal | `nzb0040@auburn.edu` | TBA | TBA 
-Tianhang Lan | `tzl0033@auburn.edu` | TBA | TBA
-Jingjing Li | `jzl0166@auburn.edu` | TBA | TBA 
-Sicheng Li | `szl0072@auburn.edu` | TBA | TBA 
-Ahmed Mostafa | `aim0008@auburn.edu` | TBA | TBA 
-Chaohui Ren | `czr0050@auburn.edu` | TBA | TBA 
-Minh Smith | `mzs0193@auburn.edu` | TBA | TBA
-Tianshi Xie | `tzx0019@auburn.edu` | TBA | TBA 
+Naman Bansal    | `nzb0040@auburn.edu` | TBA | TBA 
+Tianhang Lan    | `tzl0033@auburn.edu` | TBA | TBA
+Jingjing Li     | `jzl0166@auburn.edu` | TBA | TBA 
+Sicheng Li      | `szl0072@auburn.edu` | TBA | TBA 
+Ahmed Mostafa   | `aim0008@auburn.edu` | TBA | TBA 
+Chaohui Ren     | `czr0050@auburn.edu` | TBA | TBA 
+Minh Smith      | `mzs0193@auburn.edu` | TBA | TBA
+Tianshi Xie     | `tzx0019@auburn.edu` | TBA | TBA 
 
+
+---
+
+# Grading
+
+Your grade for the course will be determined by the points you earn on items
+in the following categories.
+
+- **Exams** (40%): There will be three exams in the course, including the final exam. Dates for the first two exams will be set and announced at least one week in advance. All three exams will be administered online using Canvas and the Honorlock proctoring system.
+
+- **Programming Tests** (30%): There will be three programming-based tests in the course. Dates for each will be set and announced at least one week in advance. All three tests will be administered online using Canvas and the Honorlock proctoring system. Programming Test grades will be based on the percentage of test cases passed. Passing zero test cases will result in a grade of zero points.
+
+- **Programming Assignments** (15%): There will be a series of programming assignments that require you to implement a solution to a problem using MATLAB. Grades for these assignments will be based on the percentage of test cases passed. Passing zero test cases will result in a grade of zero points.
+
+- **zyBook Activities** (15%): There will be a series of Participation Activities and Challenge Activities throughout the assigned chapters of the course zyBook. You will complete these activities directly in the zyBook and submit them to earn points for your work.
+
+Your total score (*Total*) for the course will be calculated as follows, where
+*E* is the percentage of possible points earned on exams, *T* is the
+percentage of possible points earned on programming tests, *A* is the
+percentage of possible points earned on programming assignments, and *Z* is
+the percentage of possible points earned on zyBook activities. Each percentage
+is calculated as (*points earned* / *points possible*) * 100.
+
+
+*Total* = (0.4 * *E*) + (0.3 * *T*) + (0.15 * *A*) + (0.15 * *Z*)
+
+Your letter grade for the course will be assigned based on your *Total*
+numeric score using the following scale.
+
+*Total*   | Letter Grade
+--------  | ------------
+[90, 100] | A
+[80, 90)  | B
+[70, 80)  | C
+[60, 70)  | D
+[0, 60)   | F
+
+**Extra Credit:** Opportunities for extra credit are sometimes given to the
+entire class, but are never given on an individual basis.
+
+---
+
+# Course Outline
+
+The course is organized into eight modules covering the topics below.
+
+- **Module 0**: Course overview, MATLAB environment
+
+- **Module 1**: Variables, basic operations and built-in functions, array basics
+
+- **Module 2**: Array operations, 2d array, logical conditions
+
+- **Module 3**: Branches, loops
+
+- **Module 4**: Custom functions, strings, structures
+
+- **Module 5**: Cell arrays, data visualization, file IO
+
+- **Module 6**: Linear algebra
+
+- **Module 7**: Symbolic math (basic equation solving)
+
+Module 0 is allocated to the first week of the course and the other seven
+modules are each allocated two weeks. Below is a tentative 15-week schedule
+for the course that indicates for each module the dates and types of graded
+items due. (Note: In the [Fall 2020 revised calendar](http://www.auburn.edu/main/auweb_calendar.php), 
+Module 7 is shortened to nine days. All dates in the table below reflect the 
+revised calendar.)
+
+Week  | Dates          | Module | Graded Items 
+----  | -----          | ------ | ------------ 
+1     | 8/17 - 8/23    | M0     | P            
+2-3   | 8/24 - 9/6     | M1     | P C          
+4-5   | 9/7 - 9/20     | M2     | P C E T      
+6-7   | 9/21 - 10/4    | M3     | P C          
+8-9   | 10/5 - 10/18   | M4     | P C E T      
+10-11 | 10/19 - 11/1   | M5     | P C          
+12-13 | 11/2 - 11/15   | M6     | P C          
+14-15 | 11/16 - 11/24  | M7     | P C E T      
+
+The **Final Exam**, which is part of M7, will be given during the Final Exam
+Period after the Thanksgiving Break, per the 
+[calendar set by the Registrar](http://www.auburn.edu/administration/registrar/documents/Fall_Exam_Schedule_202110_1.pdf).
 
 ---
 
