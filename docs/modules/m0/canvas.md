@@ -13,11 +13,11 @@ Take the following steps to familiarize yourself with Canvas.
 
 1. Click on **Modules** in the left menu. Make sure you are able to navigate through the course via this menu option. Notice the dates when each module is scheduled to open.
 
-1. Click on **Assignments** in the left menu. This page in Canvas allows you to scroll through all graded items in the course as well as search for a particular item. **Note:** *Canvas uses the term "assignment" in a general sense to mean any element of the course that has a score or grade. Thus, the Canvas term "assignment" includes the following course items: Exams, Programming Tests, Challenge Activities, and Participation Activities.* To familiarize yourself with this page in Canvas, do the following:
+1. Click on **Assignments** in the left menu. This page in Canvas allows you to scroll through all graded items in the course as well as search for a particular item. **Note:** *Canvas uses the term "assignment" in a general sense to mean any element of the course that has a score or grade. Thus, the Canvas term "assignment" includes the following course items: Exams, Programming Tests, Programming Assignments, and zyBook Activities.* To familiarize yourself with this page in Canvas, do the following:
 
 	- Click the *Show by Date* button to see a reverse-chronological listing of all graded items.
 	- Click the *Show By Type* button to see a listing of all graded items organized into course grading categories. Notice that the weight of each category is displayed.
-	- Click in the *Search for Assignment* text box and search for a particular item. For example, enter "MO: Participation Activites" in the search box and press the Enter key.
+	- Click in the *Search for Assignment* text box and search for a particular item. For example, enter "MO: zyBook Activites" in the search box and press the Enter key.
 
 1. Click on **Grades** in the left menu. This page in Canvas allows you to check your current grades as well as do a what-if analysis on ungraded items. To familiarize yourself with this page in Canvas, do the following:
 
