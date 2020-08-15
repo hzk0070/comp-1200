@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: August 10, 2020; Updated: August 10, 2020*
+*Published: August 10, 2020; Updated: August 15, 2020*
 
 ---
 
@@ -36,7 +36,15 @@ and [Honorlock](https://honorlock.com/support/). If you have needs regarding
 instructional technology, you should contact the AU Bookstore at
 `books@auburn.edu`.
 
-Times for all course events (assignment deadlines, exam times, etc.) will be set in US [Central Time](https://www.timeanddate.com/time/zones/ct), which may not correspond to the time zone in which you will be living and studying this fall. You are responsible for meeting deadlines in Central Time regardless of what your local time zone may be. You may find it helpful to follow the instructions linked [here](https://community.canvaslms.com/t5/Student-Guide/How-do-I-set-a-time-zone-in-my-user-account-as-a-student/ta-p/414) to have Canvas show deadlines appropriately in your local time zone to avoid any confusion.
+Times for all course events (assignment deadlines, exam times, etc.) will be
+set in US [Central Time](https://www.timeanddate.com/time/zones/ct), which may
+not correspond to the time zone in which you will be living and studying this
+fall. You are responsible for meeting deadlines in Central Time regardless of
+what your local time zone may be. You may find it helpful to follow the
+instructions linked
+[here](https://community.canvaslms.com/t5/Student-Guide/How-do-I-set-a-time-zone-in-my-user-account-as-a-student/ta-p/414)
+to have Canvas show deadlines appropriately in your local time zone to avoid
+any confusion.
 
 # Course Description
 
@@ -236,14 +244,14 @@ revised calendar.)
 
 Week  | Dates          | Module | Graded Items 
 ----  | -----          | ------ | ------------ 
-1     | 8/17 - 8/23    | M0     | P            
-2-3   | 8/24 - 9/6     | M1     | P C          
-4-5   | 9/7 - 9/20     | M2     | P C E T      
-6-7   | 9/21 - 10/4    | M3     | P C          
-8-9   | 10/5 - 10/18   | M4     | P C E T      
-10-11 | 10/19 - 11/1   | M5     | P C          
-12-13 | 11/2 - 11/15   | M6     | P C          
-14-15 | 11/16 - 11/24  | M7     | P C E T      
+1     | 8/17 - 8/23    | M0     | Z            
+2-3   | 8/24 - 9/6     | M1     | Z A          
+4-5   | 9/7 - 9/20     | M2     | Z A E T      
+6-7   | 9/21 - 10/4    | M3     | Z A          
+8-9   | 10/5 - 10/18   | M4     | Z A E T      
+10-11 | 10/19 - 11/1   | M5     | Z A          
+12-13 | 11/2 - 11/15   | M6     | Z A          
+14-15 | 11/16 - 11/24  | M7     | Z A E T      
 
 The **Final Exam**, which is part of M7, will be given during the Final Exam
 Period after the Thanksgiving Break, per the 
