@@ -12,7 +12,7 @@ The following things are required for you to use HonorLock.
 
 - A laptop or desktop computer.
 - A working webcam (integrated or external USB device).
-- [Google Chrome browser](https://www.google.com/chrome/) with the [HonorLock extension installed](www.honorlock.com/extension/install).
+- [Google Chrome browser](https://www.google.com/chrome/) with the [HonorLock extension installed](https://static.honorlock.com/install/extension).
 
 For detailed information on HonorLock please read the 
 [minimum system requirements](https://honorlock.com/support/) and the information provided
