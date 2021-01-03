@@ -34,6 +34,8 @@ The details of this are as follows.
 
 - *Office Hours*: Instructor office hours will be held via Zoom at a set time each week. The specific day/time will be announced on the first day of classes.
 
+- *Lab meetings*: For those of you registered for COMP 1201, your Graduate Teaching Assistant (GTA) will hold a live Zoom session during your scheduled lab time. Registration for COMP 1201 is optional and participation in the associated live Zoom sessions are also optional.
+
 You are expected to have all the equipment and software needed to be
 successful in this course. At a minimum, you must have a computer with a
 webcam and microphone, and a broadband Internet connection capable of
@@ -60,42 +62,9 @@ activities and required to attend some. The details of this are as follows.
 
 - *Office Hours*: Instructor office hours will be held via Zoom at a set time each week. The specific day/time will be announced on the first day of classes.
 
-# Instructional Mode
-
-The instructional mode for this course is *Online Synchronous*. The course
-will be conducted online in its entirety, and you will not have to be on
-campus for any part of this course. There will be optional synchronous online
-course activities in which you are expected to participate remotely during the
-scheduled class time. The following are the synchronous activities of this
-course:
-
-- *Lecture meetings*: The instructor will hold a live Zoom session during the scheduled lecture time for your section. This live session is optional but encouraged.
-
 - *Lab meetings*: For those of you registered for COMP 1201, your Graduate Teaching Assistant (GTA) will hold a live Zoom session during your scheduled lab time. Registration for COMP 1201 is optional and participation in the associated live Zoom sessions are also optional.
 
-- *Exams and Tests*: Exams and Programming Tests will be given during scheduled lecture times.
 
-- *Office Hours*: Instructor office hours will be held via Zoom at a set time each week. The specific day/time will be announced on the first day of classes.
-
-You are expected to have all the equipment and software needed to be
-successful in this course. At a minimum, you must have what is described in
-the *Instructional Technology for Students* section of the [Academic Re-Entry
-Plan](https://ahealthieru.auburn.edu/). You must have a computer and a
-broadband Internet connection capable of installing and reliably running both
-[Zoom](https://support.zoom.us/hc/en-us/articles/201362023-System-requirements-for-Windows-macOS-and-Linux)
-and [Honorlock](https://honorlock.com/support/). If you have needs regarding
-instructional technology, you should contact the AU Bookstore at
-`books@auburn.edu`.
-
-Times for all course events (assignment deadlines, exam times, etc.) will be
-set in US [Central Time](https://www.timeanddate.com/time/zones/ct), which may
-not correspond to the time zone in which you will be living and studying this
-fall. You are responsible for meeting deadlines in Central Time regardless of
-what your local time zone may be. You may find it helpful to follow the
-instructions linked
-[here](https://community.canvaslms.com/t5/Student-Guide/How-do-I-set-a-time-zone-in-my-user-account-as-a-student/ta-p/414)
-to have Canvas show deadlines appropriately in your local time zone to avoid
-any confusion.
 
 # Course Description
 
