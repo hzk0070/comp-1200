@@ -284,18 +284,11 @@ The **Final Exam** will be given during the Final Exam Period per the
 
 ## Attendance
 
-Attendance per se will not be recorded in this course. Synchronous lecture and
-lab sessions are optional but encouraged. 
-
-Since this course is being conducted in Online Synchronous mode, "engagement"
-better captures what is expected rather than "attendance." You are expected to
-fully engage in this course and take responsibility for your learning
-experience. Lack of engagement almost always leads to poor course performance.
-
-If illness or an emergency situation prevents you from being able to
-participate in the course, please contact me in advance of affected deadlines
-if possible. See  other syllabus policies regarding extended absences, late
-submissions, and make-ups.
+You are expected to attend all class meetings and stay for the entire period. You are responsible for all
+material presented in class meetings whether you are present or not. It is your responsibility to collect
+any graded materials that were returned during your absence. If you are excessively late to an exam,
+the instructor reserves the right to count you absent from the exam and give you the opportunity to
+take a make-up.
 
 
 ## Time Commitment
