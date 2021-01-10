@@ -282,29 +282,88 @@ The **Final Exam** will be given during the Final Exam Period per the
 
 ## Attendance
 
-You are expected to attend all class meetings and stay for the entire period. You are responsible for all
-material presented in class meetings whether you are present or not. It is your responsibility to collect
-any graded materials that were returned during your absence. If you are excessively late to an exam,
-the instructor reserves the right to count you absent from the exam and give you the opportunity to
-take a make-up.
+The 
+[AU Policy on Class Attendance](https://sites.auburn.edu/admin/universitypolicies/Policies/PolicyonClassAttendance.pdf) 
+is strictly observed in this course. Refer to the Instructional Mode section of
+this syllabus for a description of all course elements that require attendance.
+Absences are considered unexcused unless the student specifically obtains an
+excused absence from the instructor (see policy below).
+
+Note that *attendance* is only one part of *engagement*. You are expected to
+fully engage in this course and take responsibility for your learning
+experience. Lack of engagement almost always leads to poor course performance.
+
+
+## Excused Absences
+
+To have an absence excused you must first obtain an Excused Absence Memo from
+Engineering Student Services (ESS), as described below.
+
+> Engineering Student Services provides excused absence memos to students who
+> present verifiable documentation related to university excused absences.  The
+> steps for obtaining an excused absence memo are as follows:
+>
+> 1. The student submits the request form using this link: [https://aub.ie/EngAbsence](https://aub.ie/EngAbsence)
+>    - Students submit documentation of the reason for the absence.
+>    - Students must read and acknowledge the excused absence policy.
+>
+> 1. The ESS office staff processes the requests and verifies authenticity of documentation provided by student, as well as the dates of the absence(s).
+>
+> 1. Assistant Dean determines if the documentation meets the standard for a university excused absence or if the documentation warrants consideration by the professor.
+>
+> 1. An official memo is sent directly to professors via email regarding the student’s absence
+>
+> NOTE: The ESS office does not process excused absences for red screens from the
+> GuideSafe app. Students receive a notification email related to the “greater
+> risk” red screen instructing them not to come to campus.  Students can provide
+> this email as documentation for Covid-related absences. 
+
+
+## Exam and Test Makeup
+
+A missed exam or test can only be made up for excused absences (see policy).
+Students must contact the instructor **within 48 hours** from the time that the
+exam or test was given or the exam or test score will remain zero. The makeup
+schedule is determined by the instructor and will need to be done within five
+business days from the time that the exam or test was given.  
+
+
+## Late Assignment Submission
+
+All assignments are due no later than the date and time specified in Canvas, and
+no late submissions are accepted. If you believe that your situation warrants an
+exception to this policy (e.g., medical emergency) you must treat this as an
+*absence* and have the absence excused (see policy).
+
+
+## Connectivity Issues
+
+If connectivity issues (e.g., Internet connection problems, electrical power
+failures) prevent you from completing an element of the course on time, you must
+notify the instructor immediately when the incident occurs (email to
+`dh@auburn.edu` and/or voicemail to 334-844-6305) and then provide appropriate
+documentation (e.g., service provider notices) within one hour of the incident.
+No extensions or makeup opportunities will be available otherwise. Note that
+excuses for connectivity issues within 30 minutes of an assignment deadline are
+unlikely to be approved. Those situations can be prevented or mitigated with
+planning and time management.
 
 
 ## Time Commitment
 
 Auburn University has the following
-[expectation](http://www.auburn.edu/student_info/student_policies/) of the
-time commitment and  work that a course will require per credit hour. "*Auburn
-University expects that for each credit hour awarded, an appropriately
-prepared student will complete an average of 3-3.5 hours of academic work per
-week over the length of a 15 week semester.*" This time estimate is
-independent of instructional mode, so although this course is being offered
-Online Synchronous for the first two weeks, you should plan on spending the same amount of
-preparation, work, and “in class” time on this course as you would if you
-were taking the course face-to-face. 
+[expectation](http://www.auburn.edu/student_info/student_policies/) of the time
+commitment and work that a course will require per credit hour. "*Auburn
+University expects that for each credit hour awarded, an appropriately prepared
+student will complete an average of 3-3.5 hours of academic work per week over
+the length of a 15 week semester.*" This time estimate is independent of
+instructional mode. 
 
-This course carries two credit hours, so at a minimum, you should expect to
+This course carries two credit hours, so at a minimum, an "appropriately
+prepared" student would be expected to
 spend 6 hours each week working on this course. Regardless of the specifics,
 you are expected to allocate an appropriate amount of time for this course. 
+
 
 ## Academic Honesty
 
@@ -334,19 +393,19 @@ problems. Collaborative problem solving is a great way to learn. However,
 collaborative problem solving must be restricted to the level of concepts,
 strategies, and algorithms; it should never involve source code. If you're in
 doubt about a certain practice, it's best to ask rather than assume it's okay.
-In certain instances, course work is to be completed in groups rather than
+In certain instances, course work may be completed in groups rather than
 individually, but these instances will be clearly identified by the instructor
 and the collaboration is allowed only within the bounds set by the instructor.
 
 
 ## Communication with Instructor and Teaching Assistants
 
-Your Auburn University email address (`@auburn.edu`) is the
-university-approved form of communication between instructors and students.
-Email is preferred to the Canvas messaging feature. Emails that you send to
-the instructor or to a teaching assistant should come from your `@auburn.edu`
+Your Auburn University email address (`@auburn.edu`) is the university-approved
+form of communication between instructors and students. Emails that you send to
+the instructor or to a teaching assistant must come from your `@auburn.edu`
 email address. Sending emails from addresses other than `@auburn.edu` could
-result in you not receiving a response to your message.
+result in you not receiving a response to your message. Do not send messages via
+Canvas; instead, send an email.
 
 All course announcements will be posted to Canvas and/or sent to your
 `@auburn.edu` address. All email communications from the instructor to you
@@ -357,9 +416,15 @@ to set your notifications preferences and specify that all course alerts are
 routed to your `@auburn.edu` email address. You are expected to check both
 Canvas and your `@auburn.edu` account daily. 
 
+
 ## Getting Help in the Course
 
-If you find yourself struggling academically in this course, please reach out to your instructor and/or a teaching assistant as soon as possible. Do not wait until the end of the semester to seek help for problems that were present weeks earlier. The instructor and teaching assistants want to help you, but can not do so unless you ask in a timely manner.
+If you find yourself struggling academically in this course, please reach out to
+your instructor and/or a teaching assistant as soon as possible. Do not wait
+until the end of the term to seek help for problems that were present weeks
+earlier. The instructor and teaching assistants want to help you, but can not do
+so unless you ask in a timely manner.
+
 
 ## Accessibility
 
@@ -369,6 +434,7 @@ during the first week of classes, or as soon as possible if accommodations are
 immediately needed. If you need accommodations but have not established them,
 make an appointment with the Office of Accessibility, 1228 Haley Center,
 334-844-2096.
+
 
 ## Diversity and Inclusion Statement
 
@@ -390,33 +456,14 @@ Your suggestions are encouraged and appreciated. Please let me know ways to
 improve the effectiveness of the course for you personally or for other
 students or student groups.
 
+
 ## Classroom Behavior
 
 The Auburn University 
 [Policy on Classroom Behavior](https://sites.auburn.edu/admin/universitypolicies/Policies/PolicyonClassroomBehavior.pdf)
 is strictly followed in this course. Note that this policy extends to all
-virtual elements of this course including Zoom, Honorlock, Vocareum, Piazza,
+online elements of this course including Zoom, Honorlock, Vocareum, Piazza,
 and all electronic communication.
-
-## Late Assignment Submission
-
-All assignments are due at 11:59 PM CT on the date specified in Canvas. No
-late submissions will be accepted except for approved University excuses.
-
-## Exam and Test Makeup
-
-Students who miss an exam or test must contact the instructor and turn in a
-valid excuse **within 48 hours** from the time that the exam or test was
-given. Valid excuses include illness documented by a physician, evidence of
-personal or family emergency, and official university excuses. If you do not
-contact the instructor with a valid excuse within 48 hours of the missed exam
-or test, the exam or test score will be zero.
-
-The makeup schedule is determined by the instructor and will need to be done
-within five business days from the time that the exam or test was given. The
-format, questions, and difficulty level of makeups are not guaranteed to be
-the same as the normal exam. Students who miss the makeup without a valid
-excuse will have zero recorded as the score for the missed exam or test.
 
 
 ## Grade Appeals
@@ -434,16 +481,29 @@ manner why you think your response should be awarded more points. Once
 received, the instructor may or may not communicate with you regarding your
 appeal. Ultimately, the instructor will render a decision. 
 
+
 ## Extended Student Absence
 
 If illness causes you to be unable to participate in the course, please
 contact me as soon as possible to discuss your options.
+
 
 ## Extended Instructor Absence
 
 If illness causes me to be unable to continue teaching the course, a back-up
 instructor has been selected who will assume all teaching responsibilities to
 ensure that the course will proceed uninterrupted.
+
+
+## Auburn University Transition to Remote Operations
+
+If Auburn University is forced to move to remote operations, the instructional
+modality for this course will be Online Synchronous. No changes to course
+content or schedule would be anticipated, but all such details will be announced
+via Canvas and updated in this syllabus as appropriate. You should personally
+plan now for this contingency to ensure that you will be able to minimize the
+disruption this move could cause to your personal living and study arrangements.
+
 
 ## Data Collection and Use Disclosure
 
