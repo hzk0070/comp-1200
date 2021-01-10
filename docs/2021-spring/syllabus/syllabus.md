@@ -252,7 +252,7 @@ The course is organized into eight modules covering the topics below.
 
 - **Module 5**: File IO
 
-- **Module 6**: Linear algebra
+- **Module 6**: Data visualization
 
 Module 0 is allocated to the first week of the course and the other six
 modules are each allocated two weeks. Below is a tentative 15-week schedule
