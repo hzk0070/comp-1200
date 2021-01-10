@@ -236,7 +236,7 @@ entire class, but are never given on an individual basis.
 
 # Course Outline
 
-The course is organized into eight modules covering the topics below.
+The course is organized into seven modules covering the topics below.
 
 - **Module 0**: Course overview, MATLAB environment
 
@@ -444,15 +444,6 @@ contact me as soon as possible to discuss your options.
 If illness causes me to be unable to continue teaching the course, a back-up
 instructor has been selected who will assume all teaching responsibilities to
 ensure that the course will proceed uninterrupted.
-
-## Auburn University Transition to Remote Operations
-
-Since this course is being delivered in Online Synchronous mode, neither
-course requirements nor course delivery will change in the event that the
-University is forced to move to remote operations and fully online
-instruction. However, you should personally plan now for this contingency to
-ensure that you will be able to minimize the disruption this move could cause
-to your personal living and study arrangements.
 
 ## Data Collection and Use Disclosure
 
