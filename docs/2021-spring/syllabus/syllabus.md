@@ -298,7 +298,7 @@ University expects that for each credit hour awarded, an appropriately
 prepared student will complete an average of 3-3.5 hours of academic work per
 week over the length of a 15 week semester.*" This time estimate is
 independent of instructional mode, so although this course is being offered
-Online Synchronous, you should plan on spending the same amount of
+Online Synchronous for the first two weeks, you should plan on spending the same amount of
 preparation, work, and “in class” time on this course as you would if you
 were taking the course face-to-face. 
 
