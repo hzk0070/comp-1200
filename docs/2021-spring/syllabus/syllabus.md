@@ -187,9 +187,7 @@ Michael Alcorn  | `alcorma@auburn.edu` | |
 Akolade Asipade | `aia0004@auburn.edu` | | 
 Naman Bansal    | `nzb0040@auburn.edu` | |  
 Tianhang Lan    | `tzl0033@auburn.edu` | | 
-Jingjing Li     | `jzl0166@auburn.edu` | |  
 Sicheng Li      | `szl0072@auburn.edu` | |  
-Ahmed Mostafa   | `aim0008@auburn.edu` | |  
 Chaohui Ren     | `czr0050@auburn.edu` | |  
 Minh Smith      | `mzs0193@auburn.edu` | | 
 Tianshi Xie     | `tzx0019@auburn.edu` | |
