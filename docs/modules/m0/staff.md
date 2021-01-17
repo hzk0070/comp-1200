@@ -43,7 +43,7 @@ Auburn, AL 36849
 
 GTA | Email | Lab Section | Office Hours | Zoom
 --- | ----- | ------- | ------------ | ------------
-Mousumi Akter   | `mza0170@auburn.edu` | 003 | T 4:30 pm - 5:30 pm | d<https://auburn.zoom.us/j/7441842843>
+Mousumi Akter   | `mza0170@auburn.edu` | 003 | T 4:30 pm - 5:30 pm | [d](https://auburn.zoom.us/j/7441842843)
 Michael Alcorn  | `alcorma@auburn.edu` | 008 | M 9:00 am - 10:00 am | `https://auburn.zoom.us/j/6325066278`
 Akolade Asipade | `aia0004@auburn.edu` | 001 | T 8:00 am - 9:00 am | `https://us02web.zoom.us/j/89713316992?pwd=eUVFZUk5em96OUJCZjB1QnBIZDJEdz09`
 Naman Bansal    | `nzb0040@auburn.edu` | 001 | T 4:00 pm - 5:00 pm |  `https://auburn.zoom.us/meeting/tZcudu-oqDgjGdTnNCd27MhdjJDIKNISDlyE/ics?icsToken=98tyKuGrrTosGtKWuRqHRpwqA4j4M_TwpnZEjadpkjHGB3IETwvyPMhmG5lROev0`
