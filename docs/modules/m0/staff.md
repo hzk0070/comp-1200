@@ -42,7 +42,7 @@ Auburn, AL 36849
 ## Teaching Assistants
 
 GTA | Email | Lab Section | Office Hours | Zoom
---- | ----- | ------- | ------------
+--- | ----- | ------- | ------------ | ------------
 Mousumi Akter   | `mza0170@auburn.edu` | 003 | T 4:30 pm - 5:30 pm | https://auburn.zoom.us/j/7441842843
 Michael Alcorn  | `alcorma@auburn.edu` | 008 | M 9:00 am - 10:00 am | https://auburn.zoom.us/j/6325066278
 Akolade Asipade | `aia0004@auburn.edu` | 001 | T 8:00 am - 9:00 am | https://us02web.zoom.us/j/89713316992?pwd=eUVFZUk5em96OUJCZjB1QnBIZDJEdz09
