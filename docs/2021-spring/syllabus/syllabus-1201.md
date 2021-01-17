@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: January 10, 2021*
+*Published: January 10, 2021; Updated: January 17, 2021*
 
 ---
 
