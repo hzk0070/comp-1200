@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: January 10, 2021; Updated: January 19, 2021*
+*Published: January 10, 2021; Updated: January 23, 2021*
 
 ---
 
@@ -17,7 +17,7 @@ Auburn University sent the following communication to all faculty on December 29
 
 To aid the gradual return to campus, this course will be taught remotely from January 11 through January 24, and will transition to the originally-published modality on January 25, 2021. More information is given below.
 
-## January 11 Through January 31
+## January 11 Through February 7
 
 The instructional mode for this course will be
 [*Online Synchronous*](http://auburn.edu/academic/provost/AU_Spring21_Modalities.pdf). 
@@ -41,7 +41,7 @@ you should contact the AU Bookstore at `books@auburn.edu`.
 
 Times for all course events (assignment deadlines, exam times, etc.) will be set in US [Central Time](https://www.timeanddate.com/time/zones/ct). You are responsible for meeting deadlines in Central Time regardless of what your local time zone may be. You may find it helpful to follow the instructions linked [here](https://community.canvaslms.com/t5/Student-Guide/How-do-I-set-a-time-zone-in-my-user-account-as-a-student/ta-p/414) to have Canvas show deadlines appropriately in your local time zone to avoid any confusion.
 
-## February 1 Through End-Of-Term
+## February 7 Through End-Of-Term
 
 The instructional mode for this course will be 
 [*Face-to-Face Required*](http://auburn.edu/academic/provost/AU_Spring21_Modalities.pdf). 
