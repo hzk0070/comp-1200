@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: December 31, 2020; Updated: January 23, 2021*
+*Published: December 31, 2020; Updated: February 1, 2021*
 
 ---
 
@@ -66,6 +66,35 @@ activities and required to attend some. The details of this are as follows.
 Registration for COMP 1201 is optional, but attendance will be required for the enrolled students.
 
 
+### In-Person Lecture Attendance and Room Occupancy Policy
+
+Safe practices recommended by [AU](http://auburn.edu/covid-resource-center/policies/safe-practices/) and the [CDC](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html) will be observed during all in-person class meetings. In particular:
+
+- **Students are required to wear masks.** Each student will be required to wear a mask at all times during in-person class meetings. Students not wearing a mask will be asked to put one on. Any student not complying with the request to wear a mask will be asked to leave the classroom and the instructor will notify Student Affairs. If a student does not wear a mask and does not leave the classroom, the instructor will cancel the class immediately.
+
+- **The instructor will wear a mask.** In light of CDC information on [airborne transmission of SARS-CoV-2](https://www.cdc.gov/coronavirus/2019-ncov/more/scientific-brief-sars-cov-2.html) the instructor will wear a mask during lecture to mitigate the risk to students attending class.
+
+- **A Healthcheck green pass screen is required.** All students must show their [Healthcheck](https://ahealthieru.auburn.edu/) green pass screen for the given day of attendance. The instructor will show his green pass screen for each lecture day.
+
+- **Room occupancy limits with six-foot distancing will be observed.** In accordance with the [AU Facilities Classroom Capacity Analysis](http://www.auburn.edu/administration/facilities/Covid-19/classroom-sheets/index.html), the [maximum seating occupancy for Shelby 1103](http://www.auburn.edu/administration/facilities/Covid-19/classroom-sheets/ShelbyCenterForEngineeringTechnology/Shelby%20Center%20for%20Engineering%20Technology%201103.pdf) is 35. To maintain this limit and distribute attendance opportunities as fairly as possible, the following student attendance rotation based on last name will be followed. The **Section** column refers to your enrolled class section and the **LN** column refers to the alphabetic letter that begins your last name.
+
+Section | LN | Dates to Attend Lecture
+---| --- |  ------------ 
+001 | A-G | 2/8, 2/24, 3/8, 3/29, 4/7, 4/19
+001 | H-O | 2/10, 3/1, 3/15, 3/31, 4/12, 4/21
+001 | P-Z | 2/22, 3/3, 3/17, 4/5, 4/14
+002 | A-C | 2/8, 3/8, 4/7 
+002 | D-I | 2/10, 3/15, 4/12
+002 | J-L | 2/22, 3/17, 4/14
+002 | M-Q | 2/24, 3/29, 4/19
+002 | R-S | 3/1, 3/31, 4/21
+002 | T-Z | 3/3, 4/5
+003 | A-B | 2/8, 3/8, 4/7 
+003 | C-F| 2/10, 3/15, 4/12
+003 | G-J | 2/22, 3/17, 4/14
+003 | K-O | 2/24, 3/29, 4/19
+003 | P-S | 3/1, 3/31, 4/21
+003 | T-Z | 3/3, 4/5
 
 # Course Description
 
