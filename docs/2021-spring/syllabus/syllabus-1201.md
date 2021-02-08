@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: January 10, 2021; Updated: January 23, 2021*
+*Published: January 10, 2021; Updated: February 7, 2021*
 
 ---
 
@@ -53,7 +53,21 @@ activities and required to attend some. The details of this are as follows.
 Registration for COMP 1201 is optional, but attendance will be required for the enrolled students.
 
 
+### In-Person Lecture Attendance and Room Occupancy Policy
 
+Safe practices recommended by [AU](http://auburn.edu/covid-resource-center/policies/safe-practices/) and the [CDC](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html) will be observed during all in-person class meetings. In particular:
+
+- **Students are required to wear masks.** Each student will be required to wear a mask at all times during in-person class meetings. Students not wearing a mask will be asked to put one on. Any student not complying with the request to wear a mask will be asked to leave the classroom and the instructor will notify Student Affairs. If a student does not wear a mask and does not leave the classroom, the instructor will cancel the class immediately.
+
+- **The instructor will wear a mask.** In light of CDC information on [airborne transmission of SARS-CoV-2](https://www.cdc.gov/coronavirus/2019-ncov/more/scientific-brief-sars-cov-2.html) the instructor will wear a mask during lecture to mitigate the risk to students attending class.
+
+- **A Healthcheck green pass screen is required.** All students must show their [Healthcheck](https://ahealthieru.auburn.edu/) green pass screen for the given day of attendance. The instructor will show his green pass screen for each lecture day.
+
+- **Room occupancy limits with six-foot distancing will be observed.** In accordance with the [AU Facilities Classroom Capacity Analysis](http://www.auburn.edu/administration/facilities/Covid-19/classroom-sheets/index.html),
+the [maximum seating occupancy for Shelby 2205](http://www.auburn.edu/administration/facilities/Covid-19/classroom-sheets/ShelbyCenterForEngineeringTechnology/Shelby%20Center%20for%20Engineering%20Technology%202205.pdf) is 29, and
+the [maximum seating occupancy for Shelby 2210](http://www.auburn.edu/administration/facilities/Covid-19/classroom-sheets/ShelbyCenterForEngineeringTechnology/Shelby%20Center%20for%20Engineering%20Technology%202210.pdf) is 20.
+Most labs will be able to accommodate all enrolled students, and therefore attendance is expected at every lab session.
+In case where lab has admitted students up to its seating occupancy limit, later arriving students will be redirected to another lab.
 # Course Description
 
 COMP 1201 is designed to aid the students in learning and understading COMP 1200 materials with relevant lab activities.
