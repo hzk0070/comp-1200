@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: December 31, 2020; Updated: February 1, 2021*
+*Published: December 31, 2020; Updated: February 28, 2021*
 
 ---
 
@@ -279,13 +279,13 @@ The course is organized into seven modules covering the topics below.
 
 - **Module 5**: File IO
 
-- **Module 6**: Data visualization
+- **Module 6**: Review
 
 Module 0 is allocated to the first week of the course and the other six
-modules are each allocated two weeks. Below is a tentative 15-week schedule
+modules are each allocated two weeks, except Module 3 where we spent an extra week reviewing the first exam/test. Below is a tentative 15-week schedule
 for the course that indicates for each module the dates and types of graded
 items due. (Note: In the [Spring 2021 revised calendar](http://www.auburn.edu/main/auweb_calendar.php), 
-Module 6 is shortened to eleven days. All dates in the table below reflect the 
+Module 6 is shortened to four days. All dates in the table below reflect the 
 revised calendar.)
 
 Week  | Dates          | Module | Graded Items 
@@ -294,11 +294,11 @@ Week  | Dates          | Module | Graded Items
 2-3   | 1/18 - 1/31     | M1     | Z A          
 4-5   | 2/1 - 2/14     | M2     | Z A      
 6      | 2/15 - 2/21     |      | E T      
-7-8   | 2/22 - 3/7    | M3     | Z A          
-9-10   | 3/8 - 3/21   | M4     | Z A      
-11     | 3/22 - 3/28     |      | E T         
-12-13 | 3/29 - 4/11   | M5    | Z A          
-14-15 | 4/12 - 4/22  | M6     | Z A
+7-9   | 2/22 - 3/14    | M3     | Z A          
+10-11   | 3/8 - 3/28   | M4     | Z A      
+12    | 3/28 - 4/4     |      | E T         
+13-14 | 4/5 - 4/18   | M5    | Z A          
+15 | 4/19 - 4/22  | M6     |
 Final | 4/28 - 4/30    |          | E T
 
 The **Final Exam** will be given during the Final Exam Period per the 
