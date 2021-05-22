@@ -18,7 +18,7 @@ Instead, your zyBook account will be automatically created when you access and
 subscribe to the zyBook by clicking on a link to the zyBook provided in this
 course in Canvas.
 
-You should have received an email on Sunday, August 16 from
+You should have received an email from
 `noreply@auburn.edu` regarding purchasing access to the zyBook through the All
 Access program. You will need the access code provided in that email to access
 the course zyBook for the first time.
