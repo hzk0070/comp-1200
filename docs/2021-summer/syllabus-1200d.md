@@ -1,7 +1,7 @@
 
 ---
 
-# COMP 1200 Introduction to Computing for Engineers and Scientists <br> Summer 2021 Course Syllabus - MATLAB Sections
+# COMP 1200 Introduction to Computing for Engineers and Scientists <br> Summer 2021 Course Syllabus - Online Section
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
@@ -11,40 +11,33 @@
 
 # Instructional Mode
 
-The instructional mode for this course will be **Face-to-Face Flexible**. 
-In brief, this means that at least half of the contact hours for this course
-will involve in-person activities; however, attendance is optional and you may choose to engage with course materials online through Canvas.
-Either way, you will be responsible for keeping up with the course materials and completeting course readings, attending lectures or watching recorded lecture videos, submitting
-assignments and taking exams no later than the published deadlines, and completing all other activities required by this course.
-The details of activities are as follows.
-
-- *Lecture meetings*: Each Tuesday and Thursday I will hold an in-person class meeting during the scheduled lecture time.
-
-- *Exams and Tests*: Exams and Programming Tests will be given online during scheduled lecture times, and you are required to take each exam and test during this time.
-
-- *Office Hours*: Instructor office hours will be held via Zoom at a set time each week. The specific day/time will be announced on the first day of classes.
-
-- *Lab meetings*: For those of you registered for COMP 1201, your Graduate Teaching Assistant (GTA) will hold an in-person lab meeting during your scheduled lab time.
-Registration for COMP 1201, as well as the attendance, is optional, but attendance will be required for the enrolled students.
+The instructional mode for this course is **Online Asynchronous**. This course
+will be conducted online in its entirety, and you will not have to be on campus
+for any part of this course.  There will be no class meetings for you to attend,
+and there will be no specific time of day during which you have to participate
+in a course activity. You will be responsible for setting your own schedule for
+completing course readings, watching recorded lecture videos (posted on Canvas following in-person section), submitting
+assignments and taking exams no later than the published deadlines, and
+completing all other activities required by this course.
 
 You are expected to have all the equipment and software needed to be
 successful in this course. At a minimum, you must have a computer with a
 webcam and microphone, and a broadband Internet connection capable of
-installing and reliably running [Honorlock](https://honorlock.com/support/). You must also be able to
+installing and reliably running both
+[Zoom](https://support.zoom.us/hc/en-us/articles/201362023-System-requirements-for-Windows-macOS-and-Linux)
+and [Honorlock](https://honorlock.com/support/). You must also be able to
 install and reliably run the software specific to this course as described
 later in this syllabus. If you have needs regarding instructional technology,
 you should contact the AU Bookstore at `books@auburn.edu`.
 
+Times for all course events (assignment deadlines, exam times, etc.) will be set
+in US [Central Time](https://www.timeanddate.com/time/zones/ct). You are
+responsible for meeting deadlines in Central Time regardless of what your local
+time zone may be. You may find it helpful to follow the instructions linked
+[here](https://community.canvaslms.com/t5/Student-Guide/How-do-I-set-a-time-zone-in-my-user-account-as-a-student/ta-p/414)
+to have Canvas show deadlines appropriately in your local time zone to avoid any
+confusion.
 
-### In-Person Lecture Attendance and Safe Practices
-
-Safe practices recommended by [AU](http://auburn.edu/covid-resource-center/policies/safe-practices/) and the [CDC](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html) will be observed during all in-person class meetings. In particular:
-
-- **Students are required to wear masks.** Each student will be required to wear a mask at all times during in-person class meetings. Students not wearing a mask will be asked to put one on. Any student not complying with the request to wear a mask will be asked to leave the classroom and the instructor will notify Student Affairs. If a student does not wear a mask and does not leave the classroom, the instructor will cancel the class immediately.
-
-- **The instructor will wear a mask.** In light of CDC information on [airborne transmission of SARS-CoV-2](https://www.cdc.gov/coronavirus/2019-ncov/more/scientific-brief-sars-cov-2.html) the instructor will wear a mask during lecture to mitigate the risk to students attending class.
-
-- **A Healthcheck green pass screen is required.** All students must show their [Healthcheck](https://ahealthieru.auburn.edu/) green pass screen for the given day of attendance. The instructor will show his green pass screen for each lecture day.
 
 # Course Description
 
@@ -259,11 +252,10 @@ Dates          | Module | Graded Items | Number of days
 7/8 - 7/19   | M4     | Zp Zc A   | 12
 7/20 - 7/22     |      | E T         
 7/23 - 7/30   | M5    | A	    | 8
-8/6    |          | E T
+8/4 - 8/6    |          | E T
 
-The **Final Exam** will be given during the Final Exam Period per the 
+The **Final Exam** will be available during the Final Exam Period per the 
 [calendar set by the Registrar](http://www.auburn.edu/administration/registrar/documents/Summer%202021%20Final%20Exam%20Mini%20Semester%202.pdf).
-
 ---
 
 # Course Policies
@@ -501,4 +493,3 @@ research and assessment, and may be used in publications related to research
 and accreditation. All such use will be anonymous.
 
 
-
