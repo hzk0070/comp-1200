@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: May 17, 2021; Updated: May 17, 2021*
+*Published: May 17, 2021; Updated: June 2, 2021*
 
 ---
 
@@ -236,7 +236,7 @@ The course is organized into seven modules covering the topics below.
 - **Module 5**: File IO
 
 Module 0 is allocated to the first three days of the course and the other five
-modules are allocated twelve days each, except Module 5 which is shortened to eleven days
+modules are (typically) allocated twelve days each, except Module 5 which is shortened to ~~eleven~~ eight days
 to account for time compression that occurs at the end of a term ([Summer 2021 calendar](http://www.auburn.edu/main/auweb_calendar.php)).
 Below is a tentative schedule for the course that indicates for each
 module the dates, types of graded items due, and most relevant chapters from
@@ -245,13 +245,13 @@ each textbook.
 Dates          | Module | Graded Items | Number of days
 -----          | ------ | ------------ | ---
 5/19 - 5/21    | M0     | Zp Zc     | 3
-5/22 - 6/2     | M1     | Zp Zc A   | 12     
-6/3 - 6/14     | M2     | Zp Zc A   | 12
-6/15 - 6/17     |      | E T      
-6/18 - 7/2    | M3     | Zp Zc A  | 12 (No classes on 6/23 - 6/25)       
-7/3 - 7/14   | M4     | Zp Zc A   | 12
-7/15 - 7/20     |      | E T         
-7/21 - 7/30   | M5    | A	    | 11
+5/22 - 6/4     | M1     | Zp Zc A   | 14     
+6/5 - 6/16     | M2     | Zp Zc A   | 12
+6/17 - 6/22     |      | E T      
+6/26 - 7/7    | M3     | Zp Zc A  | 12    
+7/8 - 7/19   | M4     | Zp Zc A   | 12
+7/20 - 7/22     |      | E T         
+7/23 - 7/30   | M5    | A	    | 8
 8/4 - 8/6    |          | E T
 
 The **Final Exam** will be available during the Final Exam Period per the 
