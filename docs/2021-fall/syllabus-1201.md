@@ -11,7 +11,7 @@
 
 # Instructional Mode
 
-The instructional mode for this course will be **Face-to-Face***. 
+The instructional mode for this course will be **Face-to-Face**. 
 The course will be conducted face-to-face and involve in-person activities; attendance are required.
 The lab meetings will involve various hands-on activities designed to help you understand the materials of the main course, COMP 1200.
 
