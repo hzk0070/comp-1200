@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: August 13, 2021; Updated: August 13, 2021*
+*Published: August 13, 2021; Updated: August 15, 2021*
 
 ---
 
@@ -139,6 +139,13 @@ environment and associated resources free of charge. Instructions on
 installation and use will be provided in Canvas during the first week of the
 course.
 
+## Respondus Lockdown Browser - Face-to-Face Sections Only
+
+The face-to-face sections (001-003) will use the Respondus Lockdown Browser.
+The associated fees are paid by the university so there is no software to purchase or licensing fee for you to pay.
+
+You must have a compatible laptop or device capable of installing and reliably running [Respondus Lockdown Browser](http://www.respondus.com/lockdown/information.pl?ID=313412015). 
+
 
 ## ProctorU - Online Section Only
 
@@ -161,6 +168,8 @@ added-feature version authenticated with your AU credentials at
 You must have a computer and a broadband Internet connection capable of
 installing and reliably running 
 [Zoom](https://support.zoom.us/hc/en-us/articles/201362023-System-requirements-for-Windows-macOS-and-Linux)
+
+
 ---
 
 # Instructional Staff
@@ -179,6 +188,7 @@ Auburn University
 Auburn, AL 36849  
 +1 334 844 6310  
 `hzk0070@auburn.edu`  
+office hours: MW 12:00 pm - 2:00 pm, also by appointment
 <http://eng.auburn.edu/csse>  
 <https://auburn.zoom.us/my/hughkwon>  
 
@@ -187,14 +197,14 @@ Auburn, AL 36849
 
 GTA | Email | Lab Section | Office Hours | Office/Zoom
 --- | ----- | ------- | ------------ | -----
-Mousumi Akter   | `mza0170@auburn.edu` | 001 | TBD | [link](https://auburn.zoom.us/j/7441842843)
+Mousumi Akter   | `mza0170@auburn.edu` | 001 | TBD | 
 Tianhang Lan    | `tzl0033@auburn.edu` | 002 | TBD | 
-Chaohui Ren     | `czr0050@auburn.edu` | 003 | TR 10:50 am - 11:50 am | [link](https://auburn.zoom.us/j/4824583837)
-John Salvadore  | `jms0256@auburn.edu` | 004 | TBD | 
-Sicheng Li      | `szl0072@auburn.edu` | 005 | MW 11:00 am - 12:00 pm | 
+Chaohui Ren     | `czr0050@auburn.edu` | 003 | W 12:00 pm - 2:00 pm   | [link](https://auburn.zoom.us/j/4824583837)
+Minh Smith      | `mzs0193@auburn.edu` | 004 | M 1:00 pm - 3:00 pm    | [link](https://auburn.zoom.us/j/6056756443)
+Sicheng Li      | `szl0072@auburn.edu` | 005 | MW 11:00 am - 12:00 pm | [link](https://auburn.zoom.us/j/8471061114)
 Jingjing Li     | `jzl0166@auburn.edu` | 006 | TBD | 
-Minh Smith      | `mzs0193@auburn.edu` | 007 | TBD | 
-Tianshi Xie     | `tzx0019@auburn.edu` | 008 | F 1:00 pm - 3:00 pm | [link](https://auburn.zoom.us/j/3157186498) / password: 1111
+John Salvadore  | `jms0256@auburn.edu` | 007 | F 10:00 am - 12:00 pm  | [link](https://auburn.zoom.us/j/4784382332)
+Tianshi Xie     | `tzx0019@auburn.edu` | 008 | F 1:00 pm - 3:00 pm    | [link](https://auburn.zoom.us/j/3157186498) / password: 1111
 Naman Bansal    | `nzb0040@auburn.edu` | N/A | TBD | 
 Ahmed Mostafa   | `aim0008@auburn.edu` | N/A | TBD | 
 
