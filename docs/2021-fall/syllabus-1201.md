@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: August 13, 2021; Updated: August 15, 2021*
+*Published: August 13, 2021; Updated: August 19, 2021*
 
 ---
 
@@ -103,25 +103,25 @@ Auburn University
 Auburn, AL 36849  
 +1 334 844 6310  
 `hzk0070@auburn.edu`  
-office hours: MW 12:00 pm - 2:00 pm, also by appointment
 <http://eng.auburn.edu/csse>  
 <https://auburn.zoom.us/my/hughkwon>  
+office hours: MW 12:00 pm - 2:00 pm, also by appointment  
 
 
 ## Teaching Assistants
 
 GTA | Email | Lab Section | Office Hours | Office/Zoom
 --- | ----- | ------- | ------------ | -----
-Mousumi Akter   | `mza0170@auburn.edu` | 001 | TBD | 
-Tianhang Lan    | `tzl0033@auburn.edu` | 002 | TBD | 
+Mousumi Akter   | `mza0170@auburn.edu` | 001 | MW 11:00 am - 12:00 pm | [link](https://auburn.zoom.us/j/7441842843)
+Tianhang Lan    | `tzl0033@auburn.edu` | 002 | MW 2:00 pm - 3:00 pm   | [link](https://auburn.zoom.us/j/3460082034)
 Chaohui Ren     | `czr0050@auburn.edu` | 003 | W 12:00 pm - 2:00 pm   | [link](https://auburn.zoom.us/j/4824583837)
 Minh Smith      | `mzs0193@auburn.edu` | 004 | M 1:00 pm - 3:00 pm    | [link](https://auburn.zoom.us/j/6056756443)
 Sicheng Li      | `szl0072@auburn.edu` | 005 | MW 11:00 am - 12:00 pm | [link](https://auburn.zoom.us/j/8471061114)
-Jingjing Li     | `jzl0166@auburn.edu` | 006 | TBD | 
-John Salvadore  | `jms0256@auburn.edu` | 007 | F 10:00 am - 12:00 pm  | [link](https://auburn.zoom.us/j/4784382332)
+Jingjing Li     | `jzl0166@auburn.edu` | 006 | TR 11:00 am - 12:00 pm | [link](https://auburn.zoom.us/j/5066376697)
+John Salvadore  | `jms0256@auburn.edu` | 007 | F 1:00 pm - 3:00 pm    | [link](https://auburn.zoom.us/j/4784382332)
 Tianshi Xie     | `tzx0019@auburn.edu` | 008 | F 1:00 pm - 3:00 pm    | [link](https://auburn.zoom.us/j/3157186498) / password: 1111
-Naman Bansal    | `nzb0040@auburn.edu` | N/A | TBD | 
-Ahmed Mostafa   | `aim0008@auburn.edu` | N/A | TBD | 
+Naman Bansal    | `nzb0040@auburn.edu` | N/A | MT 11:00 am - 12:00 am |  [link](https://auburn.zoom.us/j/83316063930)
+Ahmed Mostafa   | `aim0008@auburn.edu` | N/A | M 12:00 pm - 2:00 pm   | [link](https://auburn.zoom.us/j/3052918117)
 
 
 ---
