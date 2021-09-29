@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: August 13, 2021; Updated: August 19, 2021*
+*Published: August 13, 2021; Updated: September 29, 2021*
 
 ---
 
@@ -270,14 +270,15 @@ The course is organized into seven modules covering the topics below.
 
 - **Module 5**: File IO
 
-- **Module 6**: Data visualization
+- **Module 6**: TBD
 
 Module 0 is allocated to the first week of the semester and the other six
 modules are each allocated two weeks. Below is a tentative 15-week schedule
 for the course that indicates for each module the dates and types of graded
 items due. (Note: In the [Fall 2021 calendar](http://www.auburn.edu/main/auweb_calendar.php), 
-Module 6 appears longer but there will be Thanksgiving Break in between.
 All dates in the table below reflect the academic calendar.)
+
+*edit(2021-09-29): Due to the extention of Module 3, the length of Module 6 has been shortened.*
 
 Week  | Dates          | Module | Graded Items 
 ----  | -----          | ------ | ------------ 
@@ -285,11 +286,11 @@ Week  | Dates          | Module | Graded Items
 2-3   | 8/23 - 9/5     | M1     | Zp Zc A     
 4-5   | 9/6 - 9/19     | M2     | Zp Zc A 
 6     | 9/20 - 9/26    |        | E T      
-7-8   | 9/27 - 10/10   | M3     | Zp Zc A     
-9-10  | 10/11 - 10/24  | M4     | Zp Zc A 
-11    | 10/25 - 10/31  |        | E T         
-12-13 | 11/1 - 11/14   | M5     | A	    
-14-15 | 11/15 - 12/3   | M6     | Zp A	
+7-9   | 9/27 - 10/17   | M3     | Zp Zc A     
+10-11 | 10/18 - 10/31  | M4     | Zp Zc A 
+12    | 11/1 - 11/7    |        | E T         
+13-14 | 11/8 - 11/21   | M5     | A	    
+15    | 11/29 - 12/3   | M6     | TBD	
 
 The **Final Exam** will be given during the Final Exam Period per the 
 [calendar set by the Registrar](http://www.auburn.edu/administration/registrar/documents/Fall_2021_Exam_Schedule.pdf).
