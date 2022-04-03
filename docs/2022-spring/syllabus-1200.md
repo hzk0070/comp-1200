@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: January 10, 2022; Updated: January 16, 2022*
+*Published: January 10, 2022; Updated: April 2, 2022*
 
 ---
 
@@ -228,15 +228,15 @@ Week  | Dates          | Module | Graded Items
 2-3   | 1/17 - 1/30     | M1     | Z A     
 4-5   | 1/31 - 2/13     | M2     | Z A 
 6     | 2/14 - 2/20    |        | E T      
-7-9   | 2/21 - 3/6   | M3     | Z A     
+7-8   | 2/21 - 3/6   | M3     | Z A     
 Break      | 3/7 - 3/13   |      | Spring Break
-10-11 | 3/14 - 3/27  | M4     | Z A 
-12    | 3/28 - 4/10    |        | E T         
-13-14 | 4/11 - 4/24   | M5     | Z A	    
-15    | 4/25 - 4/29   | M6     | A	
+9-10 | 3/14 - 3/27  | M4     | Z A 
+11    | 3/28 - 4/3    |        | E T         
+12-13 | 4/4 - 4/17   | M5     | Z A	    
+14-15 | 4/18 - 4/29   | M6     | A	
 
 The **Final Exam** will be given during the Final Exam Period per the 
-[calendar set by the Registrar](http://www.auburn.edu/administration/registrar/documents/Spring%202022%20Final%20Exam%20Schedule_2.pdf).
+[calendar set by the Registrar](https://www.auburn.edu/administration/registrar/documents/Spring%202022%20Final%20Exam%20Schedule.pdf).
 
 ---
 

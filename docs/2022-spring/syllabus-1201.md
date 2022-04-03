@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: January 10, 2022; Updated: January 16, 2022*
+*Published: January 10, 2022; Updated: April 2, 2022*
 
 ---
 
@@ -180,11 +180,12 @@ Week  | Dates          | Module
 2-3   | 1/17 - 1/30     | M1   
 4-5   | 1/31 - 2/13     | M2   
 6     | 2/14 - 2/20    |       
-7-9   | 2/21 - 3/6   | M3    
+7-8   | 2/21 - 3/6   | M3    
 Break      | 3/7 - 3/13   |     
-10-11 | 3/14 - 3/27  | M4  
-12    | 3/28 - 4/10    |   
-13-14 | 4/11 - 4/24   | M5 
+9-10 | 3/14 - 3/27  | M4  
+11    | 3/28 - 4/3    |   
+12-13 | 4/4 - 4/17   | M5 
+14-15 | 4/18 - 4/29   | M6
 
 
 ---
