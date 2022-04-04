@@ -1,3 +1,3 @@
 # Module Summary
 
-In this module, we have learned to read from and write to files in a few different ways. We now don't have to lose everything we computed when we exit MATLAB. Instead, we can store the result of our computation and access them again in the future. This also implies that we can pass the output of our program to someone else for further processing and vice versa. 
+In this module, we have learned to read from and write to files in a few different ways. We now don't have to lose everything we computed when we exit MATLAB. Instead, we can store the result of our computation and access them again in the future. This also implies that we can pass the output of our program to someone else for further processing and vice versa. Finally, we also learned to visualize numerical data. 
