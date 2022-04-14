@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: January 10, 2022; Updated: April 2, 2022*
+*Published: January 10, 2022; Updated: April 14, 2022*
 
 ---
 
@@ -184,8 +184,8 @@ Week  | Dates          | Module
 Break      | 3/7 - 3/13   |     
 9-10 | 3/14 - 3/27  | M4  
 11    | 3/28 - 4/3    |   
-12-13 | 4/4 - 4/17   | M5 
-14-15 | 4/18 - 4/29   | M6
+12-14 | 4/4 - 4/24   | M5 
+15 | 4/25 - 4/29   | M6
 
 
 ---
@@ -430,5 +430,11 @@ disruption this move could cause to your personal living and study arrangements.
 Any and all results of graded items in the course are data sources for
 research and assessment, and may be used in publications related to research
 and accreditation. All such use will be anonymous.
+
+## Use of content
+All materials provided as part of this course, whether online or in person, are 
+copyright protected and intended to be used solely for this course.  Further use 
+or distribution to persons not involved in this course is an infringement of 
+university policy.
 
 
