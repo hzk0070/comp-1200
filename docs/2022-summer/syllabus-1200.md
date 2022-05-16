@@ -210,7 +210,7 @@ Week  | Dates          | Graded Items | Note
 3     | 5/31 - 6/6     | Z A          |
 4     | 6/7 - 6/13     | Z A          |
 5     | 6/14 - 6/19    | E T Z A      | No class on 6/20 (Juneteenth Holiday)
-6     | 6/21 - 6/22    |              | No classes from 6/23 to 6/27 (Mini-Semester I final exams)
+6     | 6/21 - 6/22    | Z            | No classes from 6/23 to 6/27 (Mini-Semester I final exams)
 7     | 6/28 - 7/4     | Z A          |
 8     | 7/5 - 7/11     | Z A	      |
 9     | 7/12 - 7/18    | E T A	      |
