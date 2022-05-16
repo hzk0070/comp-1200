@@ -30,7 +30,7 @@ The details of activities are as follows.
 
 - *Office Hours*: Instructor office hours will be held both via Zoom and in-person at a set time each week. The specific day/time will be announced on the first day of classes.
 
-- *Lab meetings*: For those of you registered for COMP 1201, I will hold an in-person lab meeting during your scheduled lab time.
+- *Lab meetings*: For those of you registered for COMP 1201, I will hold a Zoom lab meeting during your scheduled lab time.
 Registration for COMP 1201 is optional, but attendance will be required for the enrolled students.
 
 You are expected to have all the equipment and software needed to be

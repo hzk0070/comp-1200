@@ -14,11 +14,11 @@
 
 Section | Day | Time | Location  
 ------- | --- | ---- | --------  
-001     | T | 11:30 AM - 12:45 PM  | TBA  
+001     | T | 11:30 AM - 12:45 PM  | [link](https://auburn.zoom.us/j/88340191037?pwd=fC_j3TU9aje-th_ZbHlmv3ZHhjYRNo.1)  
 
 # Instructional Mode
 
-The instructional mode for this course will be **Face-to-Face** and it involve in-person activities.
+The instructional mode for this course will be **Online synchronous**.
 The lab meetings will involve various hands-on activities designed to help you understand the materials of the main course, COMP 1200.
 
 You are expected to have all the equipment and software needed to be
