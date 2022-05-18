@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: May 15, 2022; Updated: May 15, 2022*
+*Published: May 15, 2022; Updated: May 18, 2022*
 
 ---
 
@@ -73,6 +73,19 @@ information on the course material. You are expected to use a textbook to
 supplement the course notes.
 
 
+## Zoom
+
+This course uses the Zoom teleconferencing software to facilitate synchronous
+interaction during lecture and lab times, office hours, and help sessions.
+Zoom is licensed by Auburn University, and you can sign up free of charge for this
+added-feature version authenticated with your AU credentials at
+[https://auburn.zoom.us/](https://auburn.zoom.us/).
+
+You must have a computer and a broadband Internet connection capable of
+installing and reliably running 
+[Zoom](https://support.zoom.us/hc/en-us/articles/201362023-System-requirements-for-Windows-macOS-and-Linux)
+
+
 ## MATLAB
 
 This course will require the use of the MATLAB software environment. The
@@ -103,6 +116,13 @@ Auburn, AL 36849
 <http://eng.auburn.edu/csse>  
 <https://auburn.zoom.us/my/hughkwon>  
 office hours: T 1:00 pm - 3:00 pm, also by appointment  
+
+
+## Teaching Assistants
+
+GTA | Email | Office Hours | Office/Zoom
+--- | ----- | ------------ | -----
+Ahmed Mostafa   | `aim0008@auburn.edu` | TBA    | TBA
 
 
 ---

@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: May 15, 2022; Updated: May 15, 2022*
+*Published: May 15, 2022; Updated: May 18, 2022*
 
 ---
 
@@ -14,7 +14,7 @@
 
 Section | Day | Time | Location  
 ------- | --- | ---- | --------  
-001     | TR | 9:45 AM - 11:0 AM  | Shelby 1103  
+001     | TR | 9:45 AM - 11:00 AM  | Shelby 1103  
 
 
 # Instructional Mode
@@ -30,7 +30,7 @@ The details of activities are as follows.
 
 - *Office Hours*: Instructor office hours will be held both via Zoom and in-person at a set time each week. The specific day/time will be announced on the first day of classes.
 
-- *Lab meetings*: For those of you registered for COMP 1201, I will hold a Zoom lab meeting during your scheduled lab time.
+- *Lab meetings*: For those of you registered for COMP 1201, your Graduate Teaching Assistant (GTA) will hold a Zoom lab meeting during your scheduled lab time.
 Registration for COMP 1201 is optional, but attendance will be required for the enrolled students.
 
 You are expected to have all the equipment and software needed to be
@@ -130,6 +130,13 @@ Auburn, AL 36849
 <http://eng.auburn.edu/csse>  
 <https://auburn.zoom.us/my/hughkwon>  
 office hours: T 1:00 pm - 3:00 pm, also by appointment  
+
+
+## Teaching Assistants
+
+GTA | Email | Office Hours | Office/Zoom
+--- | ----- | ------------ | -----
+Ahmed Mostafa   | `aim0008@auburn.edu` | TBA    | TBA
 
 
 ---
