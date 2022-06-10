@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: May 15, 2022; Updated: May 20, 2022*
+*Published: May 15, 2022; Updated: June 10, 2022*
 
 ---
 
@@ -192,9 +192,9 @@ The course will cover the following topics:
 
 - **Week 4**: Array operations
 
-- **Week 5**: Logical variables and expressions
+- **Week 5**: 2D arrays
 
-- **Week 6**: Logical arrays
+- **Week 6**: Logical variables, expressions, and arrays
 
 - **Week 7**: Branching
 
@@ -216,7 +216,7 @@ Week  | Dates          | Graded Items | Note
 2     | 5/23 - 5/29    | Z A          | No class on 5/30 (Memorial day)
 3     | 5/31 - 6/6     | Z A          |
 4     | 6/7 - 6/13     | Z A          |
-5     | 6/14 - 6/19    | E T Z A      | No class on 6/20 (Juneteenth Holiday)
+5     | 6/14 - 6/19    | E T Z        | No class on 6/20 (Juneteenth Holiday)
 6     | 6/21 - 6/22    | Z            | No classes from 6/23 to 6/27 (Mini-Semester I final exams)
 7     | 6/28 - 7/4     | Z A          |
 8     | 7/5 - 7/11     | Z A	      |
