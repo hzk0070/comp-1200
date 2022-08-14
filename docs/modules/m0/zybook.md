@@ -18,12 +18,7 @@ Instead, your zyBook account will be automatically created when you access and
 subscribe to the zyBook by clicking on a link to the zyBook provided in this
 course in Canvas.
 
-You should have received an email from
-`noreply@auburn.edu` regarding purchasing access to the zyBook through the All
-Access program. You will need the access code provided in that email to access
-the course zyBook for the first time.
-
-The next section in this module is a direct link to the Table of Contents of
+At the top of the Modules page, there is a direct link to the Table of Contents of
 the course zyBook. When you visit that page in Canvas, your name and email
 address will be passed to zyBooks establishing a link between your "copy" of
 the zyBook and your Canvas account. This will allow points you earn in the
@@ -36,7 +31,7 @@ code, you will be able to access the course zyBook for the period indicated on
 the subscription screen.
 
 Information about opting in, opting out, refunds, etc. for All Access
-resources is linked [here]().
+resources is linked [here](https://www.aubookstore.com/t-textbook_allaccess.aspx).
 
 
 

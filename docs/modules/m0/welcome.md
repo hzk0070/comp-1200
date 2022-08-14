@@ -18,6 +18,3 @@ By the end of this course, you should be able to:
 - Create solutions to simple engineering problems and express those solutions using an appropriate programming language.
 - Appreciate the central roles that computing and programming play in engineering.
 
-
-
-
