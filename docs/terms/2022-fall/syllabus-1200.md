@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: August 14, 2022; Updated: August 14, 2022*
+*Published: August 15, 2022*
 
 ---
 
@@ -140,6 +140,8 @@ The associated fees are paid by the university so there is no software to purcha
 
 You must have access to a compatible laptop or device capable of installing and reliably running
 [Respondus Lockdown Browser](http://www.respondus.com/lockdown/information.pl?ID=313412015). 
+
+
 ---
 
 # Instructional Staff
@@ -160,7 +162,7 @@ Auburn, AL 36849
 `hzk0070@auburn.edu`  
 <http://eng.auburn.edu/csse>  
 <https://auburn.zoom.us/my/hughkwon>  
-**office hours:** TBA  
+**office hours:** MW 12:00 p.m. - 2:00 p.m.  
 *Other times available by appointment.*  
 
 
@@ -168,7 +170,14 @@ Auburn, AL 36849
 
 GTA | Email | Lab Section | Office Hours | Office/Zoom
 --- | ----- | ------- | ------------ | -----
-TBA    | TBA | TBA | TBA   | TBA
+Mousumi Akter   | `mza0170@auburn.edu` | TBA | TBA   | [link](https://auburn.zoom.us/my/mousumiakter)
+Naman Bansal    | `nzb0040@auburn.edu` | TBA | TBA   |  [link](https://auburn.zoom.us/j/86110253997)
+Ahmed Mostafa   | `aim0008@auburn.edu` | TBA | TBA    | [link](https://auburn.zoom.us/j/3052918117)
+Nilanjana Raychawdhary   | `nzr0044@auburn.edu` | TBA | TBA   | [link](https://auburn.zoom.us/my/nilanjanabh)
+Chaohui Ren     | `czr0050@auburn.edu` | TBA | TBA   | [link](https://auburn.zoom.us/j/4824583837)
+John Salvadore  | `jms0256@auburn.edu` | TBA | TBA   | [link](https://auburn.zoom.us/j/4784382332)
+Minh Smith      | `mzs0193@auburn.edu` | TBA | TBA    | [link](https://auburn.zoom.us/j/6056756443)
+Tianshi Xie     | `tzx0019@auburn.edu` | TBA | TBA    | [link](https://auburn.zoom.us/j/3157186498)
 
 
 ---
