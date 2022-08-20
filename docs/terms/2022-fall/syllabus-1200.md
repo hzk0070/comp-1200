@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: August 15, 2022*
+*Published: August 15, 2022; Updated: August 20, 2022*
 
 ---
 
@@ -168,16 +168,16 @@ Auburn, AL 36849
 
 ## Teaching Assistants
 
-GTA | Email | Lab Section | Office Hours | Office/Zoom
---- | ----- | ------- | ------------ | -----
-Mousumi Akter   | `mza0170@auburn.edu` | TBA | TBA   | [link](https://auburn.zoom.us/my/mousumiakter)
-Naman Bansal    | `nzb0040@auburn.edu` | TBA | TBA   |  [link](https://auburn.zoom.us/j/86110253997)
-Ahmed Mostafa   | `aim0008@auburn.edu` | TBA | TBA    | [link](https://auburn.zoom.us/j/3052918117)
-Nilanjana Raychawdhary   | `nzr0044@auburn.edu` | TBA | TBA   | [link](https://auburn.zoom.us/my/nilanjanabh)
-Chaohui Ren     | `czr0050@auburn.edu` | TBA | TBA   | [link](https://auburn.zoom.us/j/4824583837)
-John Salvadore  | `jms0256@auburn.edu` | TBA | TBA   | [link](https://auburn.zoom.us/j/4784382332)
-Minh Smith      | `mzs0193@auburn.edu` | TBA | TBA    | [link](https://auburn.zoom.us/j/6056756443)
-Tianshi Xie     | `tzx0019@auburn.edu` | TBA | TBA    | [link](https://auburn.zoom.us/j/3157186498)
+GTA | Email | Office Hours | Office/Zoom | Assigned Students (Lastnames begins with below)
+--- | ----- | ------------ | ----- | ---------------------------
+Mousumi Akter            | `mza0170@auburn.edu` | T 9:00 a.m. - 11:00 a.m.   | [https://auburn.zoom.us/my/mousumiakter](https://auburn.zoom.us/my/mousumiakter) | `A`   - `CAM`
+Naman Bansal             | `nzb0040@auburn.edu` | TBA                        | [https://auburn.zoom.us/j/86110253997](https://auburn.zoom.us/j/86110253997)   | `CAN` - `FOQ`
+Ahmed Mostafa            | `aim0008@auburn.edu` | N/A                        | N/A                                            | N/A
+Nilanjana Raychawdhary   | `nzr0044@auburn.edu` | T 2:00 p.m. - 4:00 p.m.    | [https://auburn.zoom.us/my/nilanjanabh](https://auburn.zoom.us/my/nilanjanabh)  | `FOR` - `H`
+Chaohui Ren              | `czr0050@auburn.edu` | MW 11:00 a.m. - 12:00 p.m. | [https://auburn.zoom.us/j/4824583837](https://auburn.zoom.us/j/4824583837)    | `I`   - `MAR`
+John Salvadore           | `jms0256@auburn.edu` | M 12:00 p.m. - 3:00 p.m.   | [https://auburn.zoom.us/j/4784382332](https://auburn.zoom.us/j/4784382332)    | `MAS` - `RC`
+Minh Smith               | `mzs0193@auburn.edu` | M 1:00 p.m. - 3:00 p.m.    | [https://auburn.zoom.us/j/6056756443](https://auburn.zoom.us/j/6056756443)    | `RD`  - `S`
+Tianshi Xie              | `tzx0019@auburn.edu` | F 1:00 p.m. - 3:00 p.m.    | [https://auburn.zoom.us/j/3157186498](https://auburn.zoom.us/j/3157186498)    | `T`   - `Z`
 
 
 ---
@@ -385,6 +385,11 @@ and the collaboration is allowed only within the bounds set by the instructor.
 
 
 ## Communication with Instructor and Teaching Assistants
+
+For all matters that is not too personal, your first point of contact must be the TA
+that you have been assigned to (refer to the Instructional Staff section of the syllabus).
+CC me in the email, but unless your question or concerns requires my direct involvement,
+you will work with the TA first to resolve the issue. 
 
 Your Auburn University email address (`@auburn.edu`) is the university-approved
 form of communication between instructors and students. Emails that you send to

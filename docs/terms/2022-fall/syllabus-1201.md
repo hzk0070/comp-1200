@@ -8,7 +8,7 @@
 *Most of the course policies are inherited from the corresponding COMP 1200. This simplified syllabus will only
 highlight the differences, mainly the grading policy.*
 
-*Published: August 15, 2022*
+*Published: August 15, 2022; Updated: August 20, 2022*
 
 ---
 
@@ -17,16 +17,16 @@ highlight the differences, mainly the grading policy.*
 
 There are eight sections of lab meetings.
 
-Section | Day | Time | Location  
-------- | --- | ---- | --------  
-001     | MW | 9:00 AM - 9:50 AM  | Shelby 2205  
-002     | MW | 9:00 AM - 9:50 AM  | Shelby 2210  
-003     | MW | 9:00 AM - 9:50 AM  | Shelby 2122  
-004     | MW | 9:00 AM - 9:50 AM  | Shelby 2125  
-005     | MW | 10:00 AM - 10:50 AM  | Shelby 2205
-006     | MW | 10:00 AM - 10:50 AM  | Shelby 2210
-007     | MW | 10:00 AM - 10:50 AM  | Shelby 2122
-008     | MW | 10:00 AM - 10:50 AM  | Shelby 2125  
+Section | Day | Time | Location  | Moderating TA
+------- | --- | ---- | --------  | -------------
+001     | MW | 9:00 AM - 9:50 AM  | Shelby 2205    | Ahmed Mostafa 
+002     | MW | 9:00 AM - 9:50 AM  | Shelby 2210    | Nilanjana Raychawdhary 
+003     | MW | 9:00 AM - 9:50 AM  | Shelby 2122    | N/A 
+004     | MW | 9:00 AM - 9:50 AM  | Shelby 2125    | N/A 
+005     | MW | 10:00 AM - 10:50 AM  | Shelby 2205  | Chaohui Ren 
+006     | MW | 10:00 AM - 10:50 AM  | Shelby 2210  | Minh Smith 
+007     | MW | 10:00 AM - 10:50 AM  | Shelby 2122  | N/A 
+008     | MW | 10:00 AM - 10:50 AM  | Shelby 2125  | N/A 
 
 # Instructional Mode
 
