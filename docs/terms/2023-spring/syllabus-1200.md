@@ -25,7 +25,8 @@ Section | Day | Time | Location
 
 - *Lecture meetings*: Each Monday and Wednesday, the instructor will hold an in-person class meeting during the scheduled lecture time. One of the sections will be recorded and made available on Canvas.
 
-- *Exams and Tests*: Exams and Programming Tests will be given in-person during scheduled lecture times at your respective classrooms. All students are required to take exams using the Respondus Lockdown Browser.
+- *Exams and Tests*: Exams and Programming Tests will be given during scheduled lecture times.
+  All students are required to take exams using the Respondus Lockdown Browser.
 
 - *Office Hours*: Instructor office hours will be held in-person at a set time each week or by an appointment. The specific day/time will be announced on the first week of the semester.
 
