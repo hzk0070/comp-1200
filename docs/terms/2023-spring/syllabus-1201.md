@@ -8,7 +8,7 @@
 *Most of the course policies are inherited from the corresponding COMP 1200. This simplified syllabus will only
 highlight the differences, mainly the grading policy.*
 
-*Published: January 10, 2023; Updated: January 10, 2023*
+*Published: January 11, 2023; Updated: January 11, 2023*
 
 ---
 
