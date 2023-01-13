@@ -6,7 +6,7 @@ Particularly for a large class, the average time between a question being
 asked and it being answered is far shorter than had the question been asked in
 an email to the course instructional staff.
 
-To get started, use the link above to join Discord (free). Then use this invitation link [https://discord.gg/nxAdM3xs9h](https://discord.gg/nxAdM3xs9h)
+To get started, use the link above to join Discord (free). Then use this invitation link [https://discord.gg/RzHpNtDEKk](https://discord.gg/RzHpNtDEKk)
 to join the course server through Discord web, desktop, and/or mobile app.
 
 While not mandatory, it would be best if you used your real name so I can identify you and look up your work on Canvas quickly.
