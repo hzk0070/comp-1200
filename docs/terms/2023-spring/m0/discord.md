@@ -1,4 +1,4 @@
-`# Getting Started With Discord
+# Getting Started With Discord
 
 This course uses the [Discord](https://discord.com/) as an optional communication platform.
 Discord is an efficient way for you to ask a question and have it answered.
