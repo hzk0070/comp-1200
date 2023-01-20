@@ -8,7 +8,7 @@
 *Most of the course policies are inherited from the corresponding COMP 1200. This simplified syllabus will only
 highlight the differences, mainly the grading policy.*
 
-*Published: January 11, 2023; Updated: January 11, 2023*
+*Published: January 11, 2023; Updated: January 19, 2023*
 
 ---
 
@@ -19,10 +19,10 @@ There are eight sections of lab meetings.
 
 Section | Day | Time | Location  | Moderating TA
 ------- | --- | ---- | --------  | -------------
-001     | MW | 9:00 AM - 9:50 AM  | Shelby 2122    | TBA 
-002     | MW | 9:00 AM - 9:50 AM  | Shelby 2125    | TBA 
-006     | MW | 10:00 AM - 10:50 AM  | Shelby 2125  | TBA 
-007     | MW | 10:00 AM - 10:50 AM  | Shelby 2122  | TBA 
+001     | MW | 9:00 AM - 9:50 AM  | Shelby 2122    | John Salvador  
+002     | MW | 9:00 AM - 9:50 AM  | Shelby 2125    | Ahmed Mostafa  
+006     | MW | 10:00 AM - 10:50 AM  | Shelby 2125  | Naman Bansal  
+007     | MW | 10:00 AM - 10:50 AM  | Shelby 2122  | Tianshi Xie  
 
 # Instructional Mode
 

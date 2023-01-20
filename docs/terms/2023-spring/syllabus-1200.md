@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: January 11, 2023; Updated: January 11, 2023*
+*Published: January 11, 2023; Updated: January 19, 2023*
 
 ---
 
@@ -128,16 +128,18 @@ Your device must have or be connected to a webcam and a microphone.
 
 ### Jennie Ren
 
+<img src="https://www.gravatar.com/avatar/24d29b1655d514eff67da6d4886ec230" />
+
 Teaching Associate  
 Computer Science and Software Engineering  
-3101 Shelby Center  
+2303 Shelby Center  
 Auburn University  
 345 West Magnolia Ave  
 Auburn, AL 36849  
 +1 334 844 4330  
 `czr0050@auburn.edu`  
 <http://eng.auburn.edu/csse>  
-**office hours:** *To be announced...*  
+**office hours:** MW 11:00 a.m. - 12:00 p.m.  
 *Other times available by appointment.*  
 
 ## Course Coordinator
@@ -161,9 +163,13 @@ Auburn, AL 36849
 
 ## Teaching Assistants
 
-GTA | Email | Office Hours | Office/Zoom 
---- | ----- | ------------ | ----- 
-TBA           | | | 
+GTA | Email | Office Hours | Office  
+--- | ----- | ------------ | -----  
+Naman Bansal             | `nzb0040@auburn.edu` | Th 10:00 a.m. - 12:00 p.m. | Shelby 2319 
+Ahmed Mostafa            | `aim0008@auburn.edu` | W 12:00 p.m. - 1:00 p.m.   | Shelby 3132        
+Nilanjana Raychawdhary   | `nzr0044@auburn.edu` | T 12:00 p.m. - 1:00 p.m.   | Shelby 2319
+John Salvadore           | `jms0256@auburn.edu` | Th 2:00 p.m. - 3:00 p.m.   | Shelby 2316
+Tianshi Xie              | `tzx0019@auburn.edu` | M 12:00 p.m. - 1:00 p.m.   | Shelby 2319 
 
 
 ---
