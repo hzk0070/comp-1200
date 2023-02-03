@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: January 11, 2023; Updated: January 19, 2023*
+*Published: January 11, 2023; Updated: February 2, 2023*
 
 ---
 
@@ -271,13 +271,13 @@ Week  | Dates          | Module | Graded Items | Note
 ----  | -----          | ------ | ------------ | ----
 1     | 1/11 - 1/15    | M0     | Z            | 
 2-3   | 1/16 - 1/29    | M1     | Z A Q W      | MLK Day 1/16 
-4-5   | 1/30 - 2/12    | M2     | Z A Q W      | 
-6     | 2/13           |        | E T          | Exam 1 and Programming Test 1
-6-8   | 2/14 - 2/27    | M3     | Z A Q W      |
-8-10  | 2/28 - 3/20    | M4     | Z A Q W      | Spring Break 3/6 - 3/10  
-10    | 3/22           |        | E T          | Exam 2 and Programming Test 2 
-10-12 | 3/23 - 4/5     | M5     | Z A Q W      | 
-12-14 | 4/6  - 4/19    | M6     | Z	Q W        | 
+4-6   | 1/30 - 2/14    | M2     | Z A Q W      | 
+6     | 2/15           |        | E T          | Exam 1 and Programming Test 1
+7-8   | 2/20 - 3/5     | M3     | Z A Q W      | Spring Break 3/6 - 3/10  
+9-10  | 3/13 - 3/26    | M4     | Z A Q W      | 
+11    | 3/27           |        | E T          | Exam 2 and Programming Test 2 
+11-13 | 3/28 - 4/10	   | M5     | Z A Q W      | 
+13-15 | 4/11  - 4/28   | M6     | Z	Q W        | 
 15    | 4/24           |        | E	T          | Exam 3 and Programming Test 3
 15    | 4/26           |        | Q            | Comprehensive Review
 
