@@ -1,7 +1,7 @@
-# Welcome to COMP 1200!
+# Welcome to COMP 1230!
 
 This the first course in computing and programming for most engineering
-majors, as well as some majors in other STEM disciplines. COMP 1200 is
+majors, as well as some majors in other STEM disciplines. COMP 1230 is
 designed to introduce computational and algorithmic thinking applied in the
 context of problem solving and computer programming, discuss the role and
 importance of computing and programming in engineering disciplines, provide
