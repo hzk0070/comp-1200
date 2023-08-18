@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: August 14, 2023*
+*Published: August 14, 2023; Updated: August 18, 2023*
 
 ---
 
@@ -14,12 +14,14 @@
 
 This course is divided into three sections. Students meet separately by their enrolled sections.
 
-Section | Day | Time | Location  
-------- | --- | ---- | --------    
-001     | M <br> TR  | 8:00 AM - 8:50 AM <br> 8:00 AM - 9:15 AM   | Shelby 1103 <br> Shelby 2205
-002     | M <br> TR  | 3:00 PM - 3:50 PM <br> 11:00 AM - 12:15 PM   | Shelby 1103 <br> Shelby 2205  
-003     | M <br> MW  | 4:00 PM - 4:50 PM <br> 5:00 PM - 6:15 PM   | Shelby 1103 <br> Shelby 2205 
+Section | Meeting | Day | Time | Location  
+------- | ------- | --- | ---- | --------    
+001     | Lecture <br> Lab | M <br> TR  | 8:00 AM - 8:50 AM <br> 8:00 AM - 9:15 AM   | Shelby 1103 <br> [Link for room assignment](https://docs.google.com/spreadsheets/d/1r_n3DJqaTFxLew7An7RcPzWLAFhWKoe6-XLpxf8fTps/edit?usp=sharing#gid=1427032014)
+002     | Lecture <br> Lab | M <br> TR  | 3:00 PM - 3:50 PM <br> 11:00 AM - 12:15 PM   | Shelby 1103 <br> [Link for room assignment](https://docs.google.com/spreadsheets/d/1r_n3DJqaTFxLew7An7RcPzWLAFhWKoe6-XLpxf8fTps/edit?usp=sharing#gid=1913490960)  
+003     | Lecture <br> Lab | M <br> MW  | 4:00 PM - 4:50 PM <br> 5:00 PM - 6:15 PM   | Shelby 1103 <br> [Link for room assignment](https://docs.google.com/spreadsheets/d/1r_n3DJqaTFxLew7An7RcPzWLAFhWKoe6-XLpxf8fTps/edit?usp=sharing#gid=0)
 
+*Please note that each lecture section has four concurrent lab sessions. You can find your assigned lab room by your AU banner ID (904#) on this spreadsheet:
+[https://docs.google.com/spreadsheets/d/1r_n3DJqaTFxLew7An7RcPzWLAFhWKoe6-XLpxf8fTps/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1r_n3DJqaTFxLew7An7RcPzWLAFhWKoe6-XLpxf8fTps/edit?usp=sharing)*
 
 # Instructional Mode
 
@@ -110,6 +112,8 @@ course.
 
 # Instructional Staff
 
+## Instructor
+
 <img src="https://www.gravatar.com/avatar/c21a731fe002707ed7ceee3a651dcfb1" />
 
 ### Hugh Kwon
@@ -124,7 +128,8 @@ Auburn, AL 36849
 `hzk0070@auburn.edu`  
 <http://eng.auburn.edu/csse>  
 <https://auburn.zoom.us/my/hughkwon>  
-**office hours:** TBA
+**office hours:** M 9:00 AM - 11:00 AM 
+*Other times available by appointment.*  
 
 
 ## Teaching Assistants
