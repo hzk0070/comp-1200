@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: August 14, 2023; Updated: August 20, 2023*
+*Published: August 14, 2023; Updated: August 21, 2023*
 
 ---
 
@@ -141,8 +141,8 @@ GTA | Email | Lab (Section)
 Mousumi Akter            | `mza0170@auburn.edu` | Shelby 2125 (Sections 001&002)
 Maram Aldiabat           | `mza0200@auburn.edu` | Shelby 1113 (Section 003)
 Naman Bansal             | `nzb0040@auburn.edu` | Shelby 2205 (Sections 002&003)
-Joshua Green             | `jag0177@auburn.edu` | Shelby 2210 (Section 001)
-Xueyang Hu               | `aim0008@auburn.edu` | Shelby 1113 (Sections 001&002)
+Joshua Greene            | `jag0177@auburn.edu` | Shelby 2210 (Section 001)
+Xueyang Hu               | `xzh0051@auburn.edu` | Shelby 1113 (Sections 001&002)
 Yash Mahajan             | `yzm0034@auburn.edu` | Shelby 2205 (Section 001)
 Nilanjana Raychawdhary   | `nzr0044@auburn.edu` | Shelby 2210 (Sections 002&003)
 John Salvador            | `jms0256@auburn.edu` | Shelby 2125 (Section 003)
