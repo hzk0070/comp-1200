@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: August 14, 2023; Updated: August 18, 2023*
+*Published: August 14, 2023; Updated: August 20, 2023*
 
 ---
 
@@ -128,15 +128,26 @@ Auburn, AL 36849
 `hzk0070@auburn.edu`  
 <http://eng.auburn.edu/csse>  
 <https://auburn.zoom.us/my/hughkwon>  
-**office hours:** M 9:00 AM - 11:00 AM 
-*Other times available by appointment.*  
+**office hours:** By appointment in-person (Mondays and Tuesdays) or via Zoom (throughtout the week)
 
 
 ## Teaching Assistants
 
-GTA | Email | Office Hours | Office  
---- | ----- | ------------ | -----  
-TBA | TBA | TBA | TBA
+Teaching assistants are your first point-of-contact for receiving help on any course materials.
+TAs will hold office hours by appointment only. Please reach out to the TA of your assigned lab.
+
+GTA | Email | Lab (Section) 
+--- | ----- | ------
+Mousumi Akter            | `mza0170@auburn.edu` | Shelby 2125 (Sections 001&002)
+Maram Aldiabat           | `mza0200@auburn.edu` | Shelby 1113 (Section 003)
+Naman Bansal             | `nzb0040@auburn.edu` | Shelby 2205 (Sections 002&003)
+Joshua Green             | `jag0177@auburn.edu` | Shelby 2210 (Section 001)
+Xueyang Hu               | `aim0008@auburn.edu` | Shelby 1113 (Sections 001&002)
+Yash Mahajan             | `yzm0034@auburn.edu` | Shelby 2205 (Section 001)
+Nilanjana Raychawdhary   | `nzr0044@auburn.edu` | Shelby 2210 (Sections 002&003)
+John Salvador            | `jms0256@auburn.edu` | Shelby 2125 (Section 003)
+
+
 
 
 ---
@@ -215,11 +226,12 @@ Week  | Dates          | Module | Graded Items | Note
 The **Final Exam** will be given during the Final Exam Period per the 
 [calendar set by the Registrar (link)](https://www.auburn.edu/administration/registrar/documents/Fall%202023%20Final%20Exam%20Schedule.pdf)
 by the enrolled section. Refer to the Course Meetings section of this syllabus if you aren't sure of which section you belong to. 
+
 Section | Final Exam 
 ------- | ---  
-001     | Wednesday, December 6, 8:00 AM - 10:00 AM 
-002     | Thursday, December 7, 10:30 AM - 12:30 PM    
-003     | Thursday, December 7, 4:00 PM - 6:00 PM   
+001     | Monday, December 4, 8:00 AM - 10:00 AM 
+002     | Monday, December 4, 1:30 PM - 3:30 PM    
+003     | Tuesday, December 5, 1:30 PM - 3:30 PM   
 
 
 ---
