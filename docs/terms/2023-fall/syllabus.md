@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: August 14, 2023; Updated: August 21, 2023*
+*Published: August 14, 2023; Updated: August 24, 2023*
 
 ---
 
@@ -16,9 +16,9 @@ This course is divided into three sections. Students meet separately by their en
 
 Section | Meeting | Day | Time | Location  
 ------- | ------- | --- | ---- | --------    
-001     | Lecture <br> Lab | M <br> TR  | 8:00 AM - 8:50 AM <br> 8:00 AM - 9:15 AM   | Shelby 1103 <br> [Link for room assignment](https://docs.google.com/spreadsheets/d/1r_n3DJqaTFxLew7An7RcPzWLAFhWKoe6-XLpxf8fTps/edit?usp=sharing#gid=1427032014)
-002     | Lecture <br> Lab | M <br> TR  | 3:00 PM - 3:50 PM <br> 11:00 AM - 12:15 PM   | Shelby 1103 <br> [Link for room assignment](https://docs.google.com/spreadsheets/d/1r_n3DJqaTFxLew7An7RcPzWLAFhWKoe6-XLpxf8fTps/edit?usp=sharing#gid=1913490960)  
-003     | Lecture <br> Lab | M <br> MW  | 4:00 PM - 4:50 PM <br> 5:00 PM - 6:15 PM   | Shelby 1103 <br> [Link for room assignment](https://docs.google.com/spreadsheets/d/1r_n3DJqaTFxLew7An7RcPzWLAFhWKoe6-XLpxf8fTps/edit?usp=sharing#gid=0)
+001     | Lecture <br> Lab | M <br> TR  | 8:00 AM - 8:50 AM <br> 8:00 AM - 9:15 AM   | Shelby 1103 <br> [Click to see room assignment](https://docs.google.com/spreadsheets/d/1r_n3DJqaTFxLew7An7RcPzWLAFhWKoe6-XLpxf8fTps/edit?usp=sharing)
+002     | Lecture <br> Lab | M <br> TR  | 3:00 PM - 3:50 PM <br> 11:00 AM - 12:15 PM   | Shelby 1103 <br> [Click to see room assignment](https://docs.google.com/spreadsheets/d/1r_n3DJqaTFxLew7An7RcPzWLAFhWKoe6-XLpxf8fTps/edit?usp=sharing)  
+003     | Lecture <br> Lab | M <br> MW  | 4:00 PM - 4:50 PM <br> 5:00 PM - 6:15 PM   | Shelby 1103 <br> [Click to see room assignment](https://docs.google.com/spreadsheets/d/1r_n3DJqaTFxLew7An7RcPzWLAFhWKoe6-XLpxf8fTps/edit?usp=sharing)
 
 *Please note that each lecture section has four concurrent lab sessions. You can find your assigned lab room by your AU banner ID (904#) on this spreadsheet:
 [https://docs.google.com/spreadsheets/d/1r_n3DJqaTFxLew7An7RcPzWLAFhWKoe6-XLpxf8fTps/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1r_n3DJqaTFxLew7An7RcPzWLAFhWKoe6-XLpxf8fTps/edit?usp=sharing)*
@@ -146,8 +146,6 @@ Xueyang Hu               | `xzh0051@auburn.edu` | Shelby 1113 (Sections 001&002)
 Yash Mahajan             | `yzm0034@auburn.edu` | Shelby 2205 (Section 001)
 Nilanjana Raychawdhary   | `nzr0044@auburn.edu` | Shelby 2210 (Sections 002&003)
 John Salvador            | `jms0256@auburn.edu` | Shelby 2125 (Section 003)
-
-
 
 
 ---
