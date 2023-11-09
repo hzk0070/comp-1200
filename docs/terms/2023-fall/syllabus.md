@@ -227,9 +227,11 @@ by the enrolled section. Refer to the Course Meetings section of this syllabus i
 
 Section | Final Exam 
 ------- | ---  
-001     | Monday, December 4, 8:00 AM - 10:00 AM 
-002     | Monday, December 4, 1:30 PM - 3:30 PM    
-003     | Tuesday, December 5, 1:30 PM - 3:30 PM   
+001     | ~~Monday, December 4, 8:00 AM - 10:00 AM~~ 
+002     | ~~Monday, December 4, 1:30 PM - 3:30 PM~~    
+003     | ~~Tuesday, December 5, 1:30 PM - 3:30 PM~~   
+
+Final Exam and Final Programming Test will be available from November 29 - November 30
 
 
 ---
