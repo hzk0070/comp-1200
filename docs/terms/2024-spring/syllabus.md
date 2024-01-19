@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: January 9, 2024*
+*Published: January 9, 2024; Updated: January 19, 2024*
 
 ---
 
@@ -122,7 +122,8 @@ Auburn, AL 36849
 `hzk0070@auburn.edu`  
 <http://eng.auburn.edu/csse>  
 <https://auburn.zoom.us/my/hughkwon>  
-**office hours:** TBA
+**office hours:** W 10:00 AM - 12:00 PM 
+*Other times available by appointment.*  
 
 
 ## Teaching Assistants
@@ -130,9 +131,19 @@ Auburn, AL 36849
 Teaching assistants are your first point-of-contact for receiving help on any course materials.
 TAs will hold office hours by appointment only. Please reach out to the TA of your assigned lab.
 
-GTA | Email | Lab (Section) 
---- | ----- | ------
-TBA            | `TBA` | TBA
+GTA | Email 
+--- | ----- 
+Mousumi Akter            | `mza0170@auburn.edu` 
+Maram Aldiabat           | `mza0200@auburn.edu`
+Naman Bansal             | `nzb0040@auburn.edu` 
+Jessica Bozhko           | `jab0245@auburn.edu` 
+Xueyang Hu               | `xzh0051@auburn.edu` 
+Wyatt Lemaster           | `wwl0004@auburn.edu` 
+Qi Li                    | `qzl0019@auburn.edu` 
+Yash Mahajan             | `yzm0034@auburn.edu` 
+Lyndsey Rice             | `lkr0020@auburn.edu` 
+John Salvador            | `jms0256@auburn.edu`
+Jack Young               | `jzy0094@auburn.edu`
 
 
 ---
