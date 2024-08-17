@@ -75,6 +75,8 @@ from zyBooks. This course participates in the
 you can have access to the zyBook on the first day of class. Please see the link
 for more details and All Access opt-out policy.
 
+![All Access](https://hzk0070.github.io/comp-1200/terms/2024-fall/allaccessQR.png)
+
 ## Canvas
 
 All course communications will be made through Canvas announcement. These communications
