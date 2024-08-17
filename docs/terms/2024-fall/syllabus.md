@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: August 19, 2024*
+*Published: August 17, 2024*
 
 ---
 
@@ -122,18 +122,27 @@ Auburn, AL 36849
 `hzk0070@auburn.edu`  
 <http://eng.auburn.edu/csse>  
 <https://auburn.zoom.us/my/hughkwon>  
-**office hours:** TBA 
+**office hours:** TR 12:30 PM - 1:30 PM  
 *Other times available by appointment.*  
 
 
 ## Teaching Assistants
 
 Teaching assistants are your first point-of-contact for receiving help on any course materials.
-TAs will hold office hours by appointment only. Please reach out to the TA of your assigned lab.
+TAs will hold office hours by appointment only. 
 
 GTA | Email 
 --- | ----- 
-TBA            | `TBA` 
+Walaa El Bakri            | `wae0010@auburn.edu` 
+Bhuvaneshwari Bodakuntla  | `bzb0159@auburn.edu` 
+Yash Mahajan              | `yzm0034@auburn.edu` 
+Aasrith Satya Matta       | `azm0383@auburn.edu` 
+Quang Huy Nguyen          | `hqn0001@auburn.edu` 
+Maheshwara Reddy Petluru  | `mzp0174@auburn.edu` 
+Akash Reddy Rajoli        | `azr0192@auburn.edu` 
+Nayanika Reddy Rajoli     | `nzr0054@auburn.edu` 
+Minh Smith                | `mzs0193@auburn.edu` 
+Jack Young                | `jzy0094@auburn.edu` 
 
 
 ---
