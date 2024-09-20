@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: August 17, 2024*
+*Published: August 17, 2024; Updated: September 19, 2024*
 
 ---
 
@@ -288,7 +288,7 @@ exception to this policy (e.g., medical emergency) you must treat this as an
 If connectivity issues (e.g., Internet connection problems, electrical power
 failures) prevent you from completing an element of the course on time, you must
 notify the instructor immediately when the incident occurs (email to
-`hzk0070@auburn.edu` and `czr0050@auburn.edu` ) and then provide appropriate
+`hzk0070@auburn.edu` ) and then provide appropriate
 documentation (e.g., service provider notices) within one hour of the incident.
 No extensions or makeup opportunities will be available otherwise. Note that
 excuses for connectivity issues within 30 minutes of an assignment deadline are
