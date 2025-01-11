@@ -216,10 +216,10 @@ Week  | Dates          | Module | Graded Items | Note
 4-5   | Mon 03 Feb - Sun 16 Feb | M2     | Z            | 
 6     | Mon 17 Feb - Tue 18 Feb |        | E T          | Exam 1 and Programming Test 1
 6-7   | Mon 17 Feb - Sun 02 Mar | M3     | Z            |   
-8-9   | Mon 03 Mar - Sun 23 Mar | M4     | Z E T        | Spring Break
+8-9   | Mon 03 Mar - Sun 23 Mar | M4     | Z            | Spring Break
 10    | Mon 24 Mar - Tue 25 Mar |        | E T          | Exam 2 and Programming Test 2
 10-11 | Mon 24 Mar - Sun 06 Apr | M5     | Z            |  
-12-13 | Mon 07 Apr - Sun 20 Apr | M6     | Z E T        | 
+12-13 | Mon 07 Apr - Sun 20 Apr | M6     | Z            | 
 14    | Mon 07 Apr - Tue 08 Apr |        | E T          | Exam 3 and Programming Test 3
 14-15 | Mon 21 Apr - Wed 30 Apr | M7     |              | 
 15    | Mon 28 Apr - Wed 30 Apr |        | E T          | Final Exam and Final Programming Test
