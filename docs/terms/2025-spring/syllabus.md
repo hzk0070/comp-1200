@@ -220,7 +220,7 @@ Week  | Dates          | Module | Graded Items | Note
 10    | Mon 24 Mar - Tue 25 Mar |        | E T          | Exam 2 and Programming Test 2
 10-11 | Mon 24 Mar - Sun 06 Apr | M5     | Z            |  
 12-13 | Mon 07 Apr - Sun 20 Apr | M6     | Z            | 
-14    | Mon 07 Apr - Tue 08 Apr |        | E T          | Exam 3 and Programming Test 3
+14    | Mon 21 Apr - Tue 22 Apr |        | E T          | Exam 3 and Programming Test 3
 14-15 | Mon 21 Apr - Wed 30 Apr | M7     |              | 
 15    | Mon 28 Apr - Wed 30 Apr |        | E T          | Final Exam and Final Programming Test
 
