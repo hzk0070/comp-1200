@@ -228,7 +228,7 @@ Sun 22 Jun - Thu 03 Jul | M4      | Z            | Mini-Semester Finals Period (
 Fri 04 Jul              |         |              | Independence Day (7/4) 
 Sat 05 Jul              | M3 - M4 | E T          | Exam 2 and Programming Test 2
 Sun 06 Jul - Sun 13 Jul | M5      | Z            | 
-Mon 14 Jul - Mon 21 Jul | M6      | Z E T        | 
+Mon 14 Jul - Mon 21 Jul | M6      | Z            | 
 Tue 22 Jul              | M5 - M6 | E T          | Exam 3 and Programming Test 3
 Wed 23 Jul - Wed 30 Jul | M7      |              | 
 Thu 31 Jul              | M0 - M7 | E T          | Final Exam and Final Programming Test
