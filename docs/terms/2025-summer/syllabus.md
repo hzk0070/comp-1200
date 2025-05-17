@@ -79,14 +79,14 @@ for more details and All Access opt-out policy.
 ![All Access](https://hzk0070.github.io/comp-1200/terms/2024-fall/allaccessQR.png)
 
 
-## Honorlock
+## ProctorU
 
-This course uses the Honorlock proctoring system for exams and tests. All fees
-associated with using Honorlock are being paid by Auburn University this term,
+This course uses the ProctorU proctoring system for exams and tests. All fees
+associated with using ProctorU are being paid by Auburn University this term,
 so there is no software to purchase or licensing fee for you to pay.
 
 You must have a computer and a broadband Internet connection capable of
-installing and reliably running [Honorlock](https://honorlock.com/support/).
+installing and reliably running [ProctorU](https://support.proctoru.com/hc/en-us/articles/24692181239309-Equipment-Requirements).
 
 
 ## Zoom
