@@ -3,8 +3,7 @@
 This course uses the [ProctorU](https://www.proctoru.com/) proctoring system for
 exams. All fees associated with using ProctorU are being paid by Auburn
 University this term, so there is no software to purchase or licensing fee for
-you to pay. You ​do not need to create an account or schedule an appointment
-in advance. 
+you to pay.
 
 ## Requirements
 
