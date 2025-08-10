@@ -1,39 +1,40 @@
 
 ---
 
-# COMP 1230 Introduction to Computing with MATLAB <br> FALL 2025 Course Syllabus
+# COMP 1230 Introduction to Computing with MATLAB <br> Summer 2025 Course Syllabus
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: August 17, 2025*
+*Published: May 18, 2025*
 
 ---
 
 
 # Instructional Mode
 
-- *Lecture meetings*: Lectures will be delivered in person. Lecture recording will be available for properly excused absence.
-
-- *Lab meetings*: Labs will be delivered in person.
-
-- *Exams and Programming Tests*: Exams may be taken in person or online through the use of proctoring software (Respondus Monitor). Programming Test will be delivered online.
-
-- *Office Hours*: Instructor office hours will be held in-person at a set time each week or remotely via appointment.
+The instructional mode for this course is *Online Asynchronous*. The course
+will be conducted online in its entirety, and there will be no specific time
+of day during which you are required to participate in a course activity. You
+will be responsible for setting your own schedule for completing course
+readings, watching pre-recorded lecture videos, submitting assignments and
+taking exams no later than the published deadlines, and completing all other
+activities required by this course.
 
 You are expected to have all the equipment and software needed to be
-successful in this course. At a minimum, you must have a web browser-enabled device 
-to access coure Canvas and the online textbook. You must also be able to
-install and reliably run the software specific to this course as described
-later in this syllabus. If you have needs regarding instructional technology,
-you should contact the AU Bookstore at `books@auburn.edu`.
+successful in this course. At a minimum, you must have a computer, a
+broadband Internet connection capable of interacting with Canvas and zyBooks
+via a web browser, as well as streaming video and audio of pre-recorded
+lectures, and a webcam to record your exam session.
 
-### Notes On In-Person Attendance
+Times for all course events (assignment deadlines, exam times, etc.) will be
+set in US [Central Time](https://www.timeanddate.com/time/zones/ct). 
+You are responsible for meeting deadlines in Central Time regardless of
+what your local time zone may be. You may find it helpful to follow the
+instructions linked
+[here](https://community.canvaslms.com/t5/Student-Guide/How-do-I-set-a-time-zone-in-my-user-account-as-a-student/ta-p/414)
+to have Canvas show deadlines appropriately in your local time zone to avoid
+any confusion.
 
-All health and safety policies adopted by Auburn University will be followed in
-this course. Auburn University permits individual faculty members to require
-face coverings in their classrooms. Face coverings and other protective measures
-are not currently required in this course, but this may change if campus health
-situations warrant.
 
 
 # Course Description
@@ -87,6 +88,21 @@ so there is no software to purchase or licensing fee for you to pay.
 You must have a computer and a broadband Internet connection capable of
 installing and reliably running [ProctorU](https://support.proctoru.com/hc/en-us/articles/24692181239309-Equipment-Requirements).
 
+
+## Zoom
+
+This course uses the Zoom teleconferencing software to facilitate synchronous
+interaction during lecture and lab times, office hours, and help sessions.
+Zoom is licensed by Auburn University, and you can sign up free of charge for this
+added-feature version authenticated with your AU credentials at
+[https://auburn.zoom.us/](https://auburn.zoom.us/).
+
+You must have a computer and a broadband Internet connection capable of
+installing and reliably running 
+[Zoom](https://support.zoom.us/hc/en-us/articles/201362023-System-requirements-for-Windows-macOS-and-Linux)
+
+
+
 ## Canvas
 
 All course communications will be made through Canvas announcement. These communications
@@ -134,32 +150,7 @@ Auburn, AL 36849
 `hzk0070@auburn.edu`  
 <http://eng.auburn.edu/csse>  
 <https://auburn.zoom.us/my/hughkwon>  
-**office hours:** W 9:00 AM - 11:00 AM  
-*Other times available by appointment.*  
-
-
-## Teaching Assistants
-
-Teaching assistants are your first point-of-contact for receiving help on any course materials.
-TAs will hold office hours by appointment only. 
-
-GTA | Email 
---- | ----- 
-Maram Aldiabat            | `mza0200@auburn.edu`
-Jacob Benken              | `jeb0159@auburn.edu`
-Walaa El Bakri            | `wae0010@auburn.edu`
-Matthew Landrum           | `mal0024@auburn.edu`
-Yash Mahajan              | `yzm0034@auburn.edu`
-Christian Marlow          | `cbm0080@auburn.edu`
-Marshall Nelson           | `man0054@auburn.edu`
-Quang Huy Nguyen          | `hqn0001@auburn.edu`
-Malik Bilal Rahim         | `mzr0149@auburn.edu`
-Nicolas Sarmiento Rojas   | `nzs0102@auburn.edu`
-Aditi Saha                | `ads0161@auburn.edu`
-Uday Sankar               | `uds0001@auburn.edu`
-Thang Truong              | `tht0021@auburn.edu`
-Pedro Vasconcelos         | `jpv0016@auburn.edu`
-Jianghai Yu               | `jzy0119@auburn.edu`
+**office hours:** by appointment on Zoom
 
 
 ---
@@ -218,30 +209,31 @@ The course is organized into seven modules covering the topics below.
 
 - **Module 6**: Data Visualization
 
-- **Module 7**: Miscellaenous topics 
+- **Module 7**: File I/O 
 
-Module 0 is allocated to the first lecture week of the semester and the other six
-modules are each allocated two weeks. Below is a ***tentative*** 15-week schedule
+Module 0 is allocated to the first 7 days of the semester and the other seven
+modules are each allocated 8 days (excluding holiday and other no class days). Below is a ***tentative*** 11-week schedule
 for the course that indicates for each module the dates and types of graded
-items due. (Note: All dates in the table below reflect the [Fall 2025 academic calendar](http://www.auburn.edu/main/auweb_calendar.php).)
+items due. (Note: All dates in the table below reflect the [Summer 2025 academic calendar](http://www.auburn.edu/main/auweb_calendar.php).)
 
-Week  | Dates          | Module | Graded Items | Note 
-----  | -----          | ------ | ------------ | ----
-1     | Mon 18 Aug - Sun 24 Aug | M0     | Z            | No lab
-2-3   | Mon 25 Aug - Sun 07 Sep	| M1     | Z            | 
-4-5   | Mon 08 Sep - Sun 21 Sep | M2     | Z            | Labor Day (9/1)
-6     | Mon 22 Sep              |        | E T          | Exam 1 and Programming Test 1
-6-7   | Mon 22 Sep - Sun 05 Oct | M3     | Z            |   
-8-9   | Mon 06 Oct - Sun 19 Oct | M4     | Z            | Fall Break (10/9 - 10/10)
-10    | Mon 20 Oct              |        | E T          | Exam 2 and Programming Test 2
-10-11 | Mon 20 Oct - Sun 02 Nov | M5     | Z            |  
-12-13 | Mon 03 Nov - Sun 16 Nov | M6     | Z            | 
-14    | Mon 17 Nov              |        | E T          | Exam 3 and Programming Test 3
-14-15 | Mon 17 Nov - Fri 05 Dec | M7     |              | Thanksgiving Break (11/24 - 11/28)
-15    | Wed 03 Dec - Fri 05 Dec |        | E T          | Final Exam and Final Programming Test
+Dates          | Module | Graded Items | Note 
+-----          | ------ | ------------ | ----
+Mon 19 May - Sun 25 May | M0      | Z            | 
+Mon 26 May              |         |              | Memorial Day (5/26)
+Tue 27 May - Tue 03 Jun	| M1      | Z            | 
+Wed 04 Jun - Wed 11 Jun | M2      | Z            | 
+Thu 12 Jun              | M0 - M2 | E T          | Exam 1 and Programming Test 1
+Fri 13 Jun - Sat 21 Jun | M3      | Z            | Juneteenth (6/19)  
+Sun 22 Jun - Thu 03 Jul | M4      | Z            | Mini-Semester Finals Period (6/24-6/27) 
+Fri 04 Jul              |         |              | Independence Day (7/4) 
+Sat 05 Jul              | M3 - M4 | E T          | Exam 2 and Programming Test 2
+Sun 06 Jul - Sun 13 Jul | M5      | Z            | 
+Mon 14 Jul - Mon 21 Jul | M6      | Z            | 
+Tue 22 Jul              | M5 - M6 | E T          | Exam 3 and Programming Test 3
+Wed 23 Jul - Wed 30 Jul | M7      |              | 
+Thu 31 Jul              | M0 - M7 | E T          | Final Exam and Final Programming Test
 
 
-Final Exam and Final Programming Test will be available from December 3 - December 5.
 
 
 ---

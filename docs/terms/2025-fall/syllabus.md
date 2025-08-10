@@ -1,6 +1,251 @@
 
 ---
 
+# COMP 1230 Introduction to Computing with MATLAB <br> FALL 2025 Course Syllabus
+
+*This syllabus is subject to change. Substantive changes will be announced in Canvas.*
+
+*Published: August 17, 2025*
+
+---
+
+
+# Instructional Mode
+
+- *Lecture meetings*: Lectures will be delivered in person. Lecture recording will be available for properly excused absence.
+
+- *Lab meetings*: Labs will be delivered in person.
+
+- *Exams and Programming Tests*: Exams may be taken in person or online through the use of proctoring software (Respondus Monitor). Programming Test will be delivered online.
+
+- *Office Hours*: Instructor office hours will be held in-person at a set time each week or remotely via appointment.
+
+You are expected to have all the equipment and software needed to be
+successful in this course. At a minimum, you must have a web browser-enabled device 
+to access coure Canvas and the online textbook. You must also be able to
+install and reliably run the software specific to this course as described
+later in this syllabus. If you have needs regarding instructional technology,
+you should contact the AU Bookstore at `books@auburn.edu`.
+
+### Notes On In-Person Attendance
+
+All health and safety policies adopted by Auburn University will be followed in
+this course. Auburn University permits individual faculty members to require
+face coverings in their classrooms. Face coverings and other protective measures
+are not currently required in this course, but this may change if campus health
+situations warrant.
+
+
+# Course Description
+
+COMP 1230 is designed to introduce computational and algorithmic thinking
+applied in the context of problem solving and computer programming, discuss
+the role and importance of computing and programming in engineering
+disciplines, provide opportunities for students to apply engineering processes
+to convert raw data into meaningful information, and provide a foundation in
+programming for engineering problem solving.
+
+>**Bulletin Description:** Computational problem-solving using MATLAB, with emphasis on developing programs from specifications, verification and testing, and engineering applications.
+>
+>**Credit Hours:** 2 (LEC. 1, LAB. 2)
+>
+>**Prerequisite:** None
+
+
+
+# Learning Outcomes
+
+By the end of this course, the student will demonstrate an ability to:
+
+- Formulate solutions to common engineering problems from specifications, real-world data representation, and real-world problem examples.
+- Convert raw data into meaningful output and accurate results.
+- Create solutions to simple engineering problems and express those solutions using an appropriate programming language.
+- Appreciate the central roles that computing and programming play in engineering.
+
+
+---
+
+# Materials and Resources
+
+## Textbook
+
+The required text for this course is a highly interactive electronic textbook
+from zyBooks. This course participates in the 
+[All Access (http://aub.ie/allaccess)](http://aub.ie/allaccess) through which
+you can have access to the zyBook on the first day of class. Please see the link
+for more details and All Access opt-out policy.
+
+![All Access](https://hzk0070.github.io/comp-1200/terms/2024-fall/allaccessQR.png)
+
+
+## ProctorU
+
+This course uses the ProctorU proctoring system for exams and tests. All fees
+associated with using ProctorU are being paid by Auburn University this term,
+so there is no software to purchase or licensing fee for you to pay.
+
+You must have a computer and a broadband Internet connection capable of
+installing and reliably running [ProctorU](https://support.proctoru.com/hc/en-us/articles/24692181239309-Equipment-Requirements).
+
+## Canvas
+
+All course communications will be made through Canvas announcement. These communications
+may be time-sensitive, require you to act and/or affect your grade. Please check the course
+Canvas regularly or set up to receive notifications for course announcement 
+([video guide](https://community.canvaslms.com/t5/Video-Guide/Notification-Preferences-All-Users/ta-p/383690)).
+
+
+## Course Notes
+
+Notes and other materials relating to each topic covered in the course are
+available through Canvas. You are expected to read the notes and interact with
+the other materials as we progress through the course. Although the course
+notes are relatively complete, they are not designed to be your only source of
+information on the course material. You are expected to use a textbook to
+supplement the course notes.
+
+
+## MATLAB
+
+This course will require the use of the MATLAB software environment. The
+Auburn University site license for MATLAB provides you access to the MATLAB
+environment and associated resources free of charge. Instructions on
+installation and use will be provided in Canvas during the first week of the
+course.
+
+
+---
+
+# Instructional Staff
+
+## Instructor
+
+<img src="https://www.gravatar.com/avatar/c21a731fe002707ed7ceee3a651dcfb1" />
+
+### Hugh Kwon
+
+Lecturer  
+Computer Science and Software Engineering  
+3139C Shelby Center  
+Auburn University  
+345 West Magnolia Ave  
+Auburn, AL 36849  
++1 334 844 6310  
+`hzk0070@auburn.edu`  
+<http://eng.auburn.edu/csse>  
+<https://auburn.zoom.us/my/hughkwon>  
+**office hours:** W 9:00 AM - 11:00 AM  
+*Other times available by appointment.*  
+
+
+## Teaching Assistants
+
+Teaching assistants are your first point-of-contact for receiving help on any course materials.
+TAs will hold office hours by appointment only. 
+
+GTA | Email 
+--- | ----- 
+Maram Aldiabat            | `mza0200@auburn.edu`
+Jacob Benken              | `jeb0159@auburn.edu`
+Walaa El Bakri            | `wae0010@auburn.edu`
+Matthew Landrum           | `mal0024@auburn.edu`
+Yash Mahajan              | `yzm0034@auburn.edu`
+Christian Marlow          | `cbm0080@auburn.edu`
+Marshall Nelson           | `man0054@auburn.edu`
+Quang Huy Nguyen          | `hqn0001@auburn.edu`
+Malik Bilal Rahim         | `mzr0149@auburn.edu`
+Nicolas Sarmiento Rojas   | `nzs0102@auburn.edu`
+Aditi Saha                | `ads0161@auburn.edu`
+Uday Sankar               | `uds0001@auburn.edu`
+Thang Truong              | `tht0021@auburn.edu`
+Pedro Vasconcelos         | `jpv0016@auburn.edu`
+Jianghai Yu               | `jzy0119@auburn.edu`
+
+
+---
+
+# Grading
+
+Your grade for the course will be determined by the points you earn on items
+in the following categories.
+
+- **Exams** (30%): There will be four exams in the course, including the Final Exam. The worst exam grade will be dropped, thus causing the Final Exam to act as a universal makeup exam.
+This means that students happy with their grade at the end of the semester can skip taking the comprehensive final exam, but it also means that taking the final exam can only improve your grade, never lower it.
+Dates for each will be set and announced at least one week in advance.
+
+- **Programming Tests** (30%): There will be four programming-based tests in the course, including the Final Programming Test.
+The worst programming test grade will be dropped, thus causing the Final Programming Test to act as a universal makeup test.
+This means that students happy with their grade at the end of the semester can skip taking the final programming test, but it also means that taking the final programming test can only improve your grade, never lower it.
+Dates for each will be set and announced at least one week in advance.
+*Programming Test grades will be based on the percentage of test cases passed. Passing zero test cases will result in a grade of zero points.*
+
+- **zyBook Activities** (40%): There will be a series of Participation Activities and Challenge Activities throughout the assigned chapters of the course zyBook. 
+You will complete these activities directly in the zyBook and submit them to earn points for your work.
+All assignments are due at the end of their respective module, but you may "catch-up" any work until the last day of the semester for full credit.
+
+
+
+*Total*   | Letter Grade
+--------  | ------------
+90% or above    | A
+80% to <90%     | B
+70% to <80%     | C
+60% to <70%     | D
+below 60%       | F
+
+**Extra Credit:** Opportunities for extra credit are sometimes given to the
+entire class, but are never given on an individual basis.
+
+
+
+---
+
+# Course Outline
+
+The course is organized into seven modules covering the topics below.
+
+- **Module 0**: Course overview, MATLAB environment
+
+- **Module 1**: Variables, basic operations and built-in functions
+
+- **Module 2**: Logical expressions and array operations (1D)
+
+- **Module 3**: Array operations (2D) and logical array
+
+- **Module 4**: Branches
+
+- **Module 5**: Loops
+
+- **Module 6**: Data Visualization
+
+- **Module 7**: Miscellaenous topics 
+
+Module 0 is allocated to the first lecture week of the semester and the other six
+modules are each allocated two weeks. Below is a ***tentative*** 15-week schedule
+for the course that indicates for each module the dates and types of graded
+items due. (Note: All dates in the table below reflect the [Fall 2025 academic calendar](http://www.auburn.edu/main/auweb_calendar.php).)
+
+Week  | Dates          | Module | Graded Items | Note 
+----  | -----          | ------ | ------------ | ----
+1     | Mon 18 Aug - Sun 24 Aug | M0     | Z            | No lab
+2-3   | Mon 25 Aug - Sun 07 Sep	| M1     | Z            | 
+4-5   | Mon 08 Sep - Sun 21 Sep | M2     | Z            | Labor Day (9/1)
+6     | Mon 22 Sep              |        | E T          | Exam 1 and Programming Test 1
+6-7   | Mon 22 Sep - Sun 05 Oct | M3     | Z            |   
+8-9   | Mon 06 Oct - Sun 19 Oct | M4     | Z            | Fall Break (10/9 - 10/10)
+10    | Mon 20 Oct              |        | E T          | Exam 2 and Programming Test 2
+10-11 | Mon 20 Oct - Sun 02 Nov | M5     | Z            |  
+12-13 | Mon 03 Nov - Sun 16 Nov | M6     | Z            | 
+14    | Mon 17 Nov              |        | E T          | Exam 3 and Programming Test 3
+14-15 | Mon 17 Nov - Fri 05 Dec | M7     |              | Thanksgiving Break (11/24 - 11/28)
+15    | Wed 03 Dec - Fri 05 Dec |        | E T          | Final Exam and Final Programming Test
+
+
+Final Exam and Final Programming Test will be available from December 3 - December 5.
+
+
+---
+
 # Course Policies
 
 
