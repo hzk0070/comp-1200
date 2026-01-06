@@ -30,8 +30,7 @@ will be posted to your AU eBill and, once you subscribe using your access
 code, you will be able to access the course zyBook for the period indicated on
 the subscription screen.
 
-Information about opting in, opting out, refunds, etc. for All Access
-resources is linked [here](https://www.aubookstore.com/t-textbook_allaccess.aspx).
+Information about opting in, opting out, and refunds is available on the [All Access Resources page](https://www.aubookstore.com/t-textbook_allaccess.aspx).
 
 
 

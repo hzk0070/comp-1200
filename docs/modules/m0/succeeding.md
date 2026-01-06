@@ -87,7 +87,7 @@ notes, *do* the notes. Is there an algorithm being discussed in the notes? Do
 it. Implement the algorithm and make it work. Is there code being discussed in
 the notes? Do it. Implement the code and make it work. It's great to know that
 it's possible to decide if a given value is in a large collection of values by
-examining no more than approximately *log*<sub>2</sub> values (theory),
+examining no more than approximately $log_2$ values (theory),
 but knowing that isn't very useful unless you can write the code to do it
 (practice).
 
@@ -107,7 +107,7 @@ to practice.
 
 Here are a few resources on practice:
 
-- <https://www.harvardbusiness.org/the-importance-of-practice-and-our-reluctance-to-do-it/>
-- <https://www.kqed.org/mindshift/48280/why-effective-practice-is-just-as-important-as-the-hours-of-practice>
-- <https://www.kqed.org/mindshift/34690/whats-the-sweet-spot-of-difficulty-for-learning>
+- [The Importance Of Practice – And Our Reluctance To Do It](https://www.harvardbusiness.org/the-importance-of-practice-and-our-reluctance-to-do-it/)
+- [Why Effective Practice Is Just As Important As the Hours of Practice](https://www.kqed.org/mindshift/48280/why-effective-practice-is-just-as-important-as-the-hours-of-practice)
+- [What's the 'Sweet Spot' of Difficulty For Learning?](https://www.kqed.org/mindshift/34690/whats-the-sweet-spot-of-difficulty-for-learning)
 <!-- - https://www.apa.org/education/k12/practice-acquisition -->
