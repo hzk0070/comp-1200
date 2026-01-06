@@ -1,11 +1,13 @@
-# Working Hard
+# How to succeed in this course
+
+## Working Hard
 
 The [Auburn Creed](http://www.auburn.edu/main/welcome/creed.php) is woven into
 the fabric of Auburn University, and it expresses important ideals and values
 that are closely held by the Auburn Family. When it comes to succeeding in
 this course, three lines from the Creed are particularly relevant.
 
-## Hard Work
+### Hard Work
 
 > I believe that this is a practical world and that I can count only on what I
 earn. Therefore, I believe in work, hard work. 
@@ -24,7 +26,7 @@ musicians from ordinary ones? More than anything else, it's the hard work of
 practice. It is exactly the same with courses like this. It takes practice to
 master the required skills and knowledge and to truly excel.
 
-## Honest Work
+### Honest Work
 
 > I believe in honesty and truthfulness, without which I cannot win the
 respect and confidence of my fellow men. 
@@ -38,7 +40,7 @@ help each other learn, but there is a line where help crosses over into
 academic dishonesty. Never share your code with other people, and never use
 code that isn't your own.
 
-## Personal Engagement
+### Personal Engagement
 
 > I believe in the human touch, which cultivates sympathy with my fellow men
 and mutual helpfulness and brings happiness for all. 
@@ -55,7 +57,7 @@ there are some very concrete things you can do:
 - This will allow you to share individual perspectives and ideas that will allow the group to construct understanding that wouldn't have been possible alone.
 
 
-# Working Smart
+## Working Smart
 
 Hard work is important but smart, efficient work is important as well.
 Combining hard work (doing all the work you need to do) with efficient work
@@ -69,7 +71,7 @@ Here are some actions that can lead to smart, efficient work:
 - [Space out study](https://en.wikipedia.org/wiki/Spacing_effect) sessions and [avoid cramming](https://www.bbc.com/future/article/20140917-the-worst-way-to-learn).
 
 
-# Theory and Practice
+## Theory and Practice
 
 > If you find that you’re spending almost all your time on theory, start turning some attention to practical things; it will improve your theories. If you find that you’re spending almost all your time on practice, start turning some attention to theoretical things; it will improve your practice.
 >
@@ -87,7 +89,7 @@ notes, *do* the notes. Is there an algorithm being discussed in the notes? Do
 it. Implement the algorithm and make it work. Is there code being discussed in
 the notes? Do it. Implement the code and make it work. It's great to know that
 it's possible to decide if a given value is in a large collection of values by
-examining no more than approximately $log_2$ values (theory),
+examining no more than approximately *log*<sub>2</sub> values (theory),
 but knowing that isn't very useful unless you can write the code to do it
 (practice).
 

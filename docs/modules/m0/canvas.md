@@ -34,20 +34,13 @@ Times for all course events (assignment deadlines, exam times, etc.) will be
 set in US [Central Time](https://www.timeanddate.com/time/zones/ct), which may
 not correspond to the time zone in which you will be living and studying this
 fall. You are responsible for meeting deadlines in Central Time regardless of
-what your local time zone may be. You may find it helpful to follow the
-instructions linked
-[here](https://community.canvaslms.com/t5/Student-Guide/How-do-I-set-a-time-zone-in-my-user-account-as-a-student/ta-p/414)
-to have Canvas show deadlines appropriately in your local time zone to avoid
-any confusion.
+what your local time zone may be. You may find it helpful to follow these [instructions for setting a local time zone in Canvas](https://community.canvaslms.com/t5/Student-Guide/How-do-I-set-a-time-zone-in-my-user-account-as-a-student/ta-p/414) to avoid confusion.
 
 
 ## Announcement Notification Setting
 
-You are responsible for the information in all course announcements. Follow
-the steps in the video
-[linked here](https://community.canvaslms.com/videos/1072) to set your notifications
-preferences and specify that all course alerts are routed to your Auburn
-University email address (`userid@auburn.edu`). 
+You are responsible for the information in all course announcements. 
+Follow the steps in this [video guide for notification preferences](https://community.canvaslms.com/videos/1072) to specify that all course alerts are routed to your Auburn email (`userid@auburn.edu`). 
 
 
 ## Dashboard Setting
