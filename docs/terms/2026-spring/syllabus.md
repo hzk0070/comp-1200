@@ -1,0 +1,488 @@
+
+---
+
+# COMP 1230 Introduction to Computing with MATLAB <br> SPRING 2026 Course Syllabus
+
+*This syllabus is subject to change. Substantive changes will be announced in Canvas.*
+
+*Published: January 6, 2026*
+
+---
+
+
+# Instructional Mode
+
+- *Lecture meetings*: Lectures will be delivered in person and via Zoom.
+
+- *Lab meetings*: Labs will be delivered in person and via Zoom.
+
+- *Exams and Programming Tests*: Exams may be taken in person or online through the use of proctoring software (ProctorU). Programming Test will be delivered online.
+
+- *Office Hours*: Instructor office hours will be held in-person at a regularly scheduled time. I highly recommend making an appointment through email first.
+
+You are expected to have all the equipment and software needed to be
+successful in this course. At a minimum, you must have a web browser-enabled device 
+to access coure Canvas and the online textbook. You must also be able to
+install and reliably run the software specific to this course as described
+later in this syllabus. If you have needs regarding instructional technology,
+you should contact the AU Bookstore at `books@auburn.edu`.
+
+### Notes On In-Person Attendance
+
+All health and safety policies adopted by Auburn University will be followed in
+this course. Auburn University permits individual faculty members to require
+face coverings in their classrooms. Face coverings and other protective measures
+are not currently required in this course, but this may change if campus health
+situations warrant.
+
+
+# Course Description
+
+COMP 1230 is designed to introduce computational and algorithmic thinking
+applied in the context of problem solving and computer programming, discuss
+the role and importance of computing and programming in engineering
+disciplines, provide opportunities for students to apply engineering processes
+to convert raw data into meaningful information, and provide a foundation in
+programming for engineering problem solving.
+
+>**Bulletin Description:** Computational problem-solving using MATLAB, with emphasis on developing programs from specifications, verification and testing, and engineering applications.
+>
+>**Credit Hours:** 2 (LEC. 1, LAB. 2)
+>
+>**Prerequisite:** None
+
+
+
+# Learning Outcomes
+
+By the end of this course, the student will demonstrate an ability to:
+
+- Formulate solutions to common engineering problems from specifications, real-world data representation, and real-world problem examples.
+- Convert raw data into meaningful output and accurate results.
+- Create solutions to simple engineering problems and express those solutions using an appropriate programming language.
+- Appreciate the central roles that computing and programming play in engineering.
+
+
+---
+
+# Materials and Resources
+
+## Textbook
+
+The required text for this course is a highly interactive electronic textbook
+from zyBooks. This course participates in the 
+[All Access (http://aub.ie/allaccess)](http://aub.ie/allaccess) through which
+you can have access to the zyBook on the first day of class. Please see the link
+for more details and All Access opt-out policy.
+
+![All Access](https://hzk0070.github.io/comp-1200/terms/2024-fall/allaccessQR.png)
+
+
+## ProctorU
+
+This course uses the ProctorU proctoring system for exams and tests. All fees
+associated with using ProctorU are being paid by Auburn University this term,
+so there is no software to purchase or licensing fee for you to pay.
+
+You must have a computer and a broadband Internet connection capable of
+installing and reliably running [ProctorU](https://support.proctoru.com/hc/en-us/articles/24692181239309-Equipment-Requirements).
+
+## Canvas
+
+All course communications will be made through Canvas announcement. These communications
+may be time-sensitive, require you to act and/or affect your grade. Please check the course
+Canvas regularly or set up to receive notifications for course announcement 
+([video guide](https://community.instructure.com/en/kb/articles/663960-unknown)).
+
+
+## Course Notes
+
+Notes and other materials relating to each topic covered in the course are
+available through Canvas. You are expected to read the notes and interact with
+the other materials as we progress through the course. Although the course
+notes are relatively complete, they are not designed to be your only source of
+information on the course material. You are expected to use a textbook to
+supplement the course notes.
+
+
+## MATLAB
+
+This course will require the use of the MATLAB software environment. The
+Auburn University site license for MATLAB provides you access to the MATLAB
+environment and associated resources free of charge. Instructions on
+installation and use will be provided in Canvas during the first week of the
+course.
+
+
+---
+
+# Instructional Staff
+
+## Instructor
+
+<img src="https://www.gravatar.com/avatar/c21a731fe002707ed7ceee3a651dcfb1" />
+
+### Hugh Kwon
+
+Lecturer  
+Computer Science and Software Engineering  
+3139C Shelby Center  
+Auburn University  
+345 West Magnolia Ave  
+Auburn, AL 36849  
++1 334 844 6310  
+`hzk0070@auburn.edu`  
+<http://eng.auburn.edu/csse>  
+<https://auburn.zoom.us/my/hughkwon>  
+**office hours:** W 10:00 AM - 12:00 PM  
+*Other times available by appointment.*  
+
+
+## Teaching Assistants
+
+Teaching assistants are your first point-of-contact for receiving help on any course materials.
+TAs will hold office hours by appointment only. 
+
+GTA | Email 
+--- | ----- 
+TBA            | `TBA`
+
+
+---
+
+# Grading
+
+Your grade for the course will be determined by the points you earn on items
+in the following categories.
+
+- **Exams** (30%): There will be four exams in the course, including the Final Exam. The single lowest exam grade will be dropped, thus causing the Final Exam to act as a universal makeup exam.
+This means that students happy with their grade at the end of the semester can skip taking the comprehensive final exam, but it also means that taking the final exam can only improve your grade, never lower it.
+Dates for each will be set and announced at least one week in advance.
+
+- **Programming Tests** (30%): There will be four programming-based tests in the course, including the Final Programming Test.
+The single lowest programming test grade will be dropped, thus causing the Final Programming Test to act as a universal makeup test.
+This means that students happy with their grade at the end of the semester can skip taking the final programming test, but it also means that taking the final programming test can only improve your grade, never lower it.
+Dates for each will be set and announced at least one week in advance.
+*Programming Test grades will be based on the percentage of test cases passed. Passing zero test cases will result in a grade of zero points.*
+
+- **zyBook Activities** (40%): There will be a series of Participation Activities and Challenge Activities throughout the assigned chapters of the course zyBook. 
+You will complete these activities directly in the zyBook and submit them to earn points for your work.
+All chapters are due at the end of their respective module, but you may "catch-up" any work until the last day of the semester for full credit. 
+*The last day of the semester is the last day any class meets for that semester and does NOT include Study/Reading Days or the Final Exam Period.*
+
+
+*Total*   | Letter Grade
+--------  | ------------
+90% or above    | A
+80% to <90%     | B
+70% to <80%     | C
+60% to <70%     | D
+below 60%       | F
+
+*Grades will NOT be rounded for any reason. Any requests for such at the end of the semester will be ignored.*
+
+
+
+
+---
+
+# Course Outline
+
+The course is organized into seven modules covering the topics below.
+
+- **Module 0**: Course overview, MATLAB environment
+
+- **Module 1**: Variables, basic operations and built-in functions
+
+- **Module 2**: Logical expressions and array operations (1D)
+
+- **Module 3**: Array operations (2D) and logical array
+
+- **Module 4**: Branches
+
+- **Module 5**: Loops
+
+- **Module 6**: Data Visualization
+
+- **Module 7**: Miscellaenous topics 
+
+Module 0 is allocated to the first lecture week of the semester and the other six
+modules are each allocated two weeks. Below is a ***tentative*** 15-week schedule
+for the course that indicates for each module the dates and types of graded
+items due. (Note: All dates in the table below reflect the [Spring 2026 academic calendar](http://www.auburn.edu/main/auweb_calendar.php).)
+
+
+<!-- Old format archived as an HTML comment
+
+Week  | Dates          | Module | Graded Items | Note 
+----  | -----          | ------ | ------------ | ----
+1     | Mon 18 Aug - Sun 24 Aug | M0     | Z            | No lab
+2-3   | Mon 25 Aug - Sun 07 Sep	| M1     | Z            | 
+4-5   | Mon 08 Sep - Sun 21 Sep | M2     | Z            | Labor Day (9/1)
+6     | Mon 22 Sep              |        | E T          | Exam 1 and Programming Test 1
+6-7   | Mon 22 Sep - Sun 05 Oct | M3     | Z            |   
+8-9   | Mon 06 Oct - Sun 19 Oct | M4     | Z            | Fall Break (10/9 - 10/10)
+10    | Mon 20 Oct              |        | E T          | Exam 2 and Programming Test 2
+10-11 | Mon 20 Oct - Sun 02 Nov | M5     | Z            |  
+12-13 | Mon 03 Nov - Sun 16 Nov | M6     | Z            | 
+14    | Mon 17 Nov              |        | E T          | Exam 3 and Programming Test 3
+14-15 | Mon 17 Nov - Fri 05 Dec | M7     |              | Thanksgiving Break (11/24 - 11/28)
+15    | Wed 03 Dec - Fri 05 Dec |        | E T          | Final Exam and Final Programming Test <br> The last day of the semester (4/24)
+-->
+
+| Week | Dates | Module | Graded Items | Note |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | Wed 07 Jan - Sun 11 Jan | M0 | Z | No lab; Semester begins Wed |
+| 2-3 | Mon 12 Jan - Sun 25 Jan | M1 | Z | **MLK Day (1/19)** |
+| 4-5 | Mon 26 Jan - Sun 08 Feb | M2 | Z | |
+| 6 | **Mon 09 Feb** | | **E T** | **Exam 1 and Programming Test 1** |
+| 6-7 | Mon 09 Feb - Sun 22 Feb | M3 | Z | |
+| 8-9 | Mon 23 Feb - Sun 08 Mar | M4 | Z | |
+| Break | **Mon 09 Mar - Sun 15 Mar** | | | **Spring Break** |
+| 10 | **Mon 16 Mar** | | **E T** | **Exam 2 and Programming Test 2** |
+| 10-11 | Mon 16 Mar - Sun 29 Mar | M5 | Z | |
+| 12-13 | Mon 30 Mar - Sun 12 Apr | M6 | Z | |
+| 14 | **Mon 13 Apr** | | **E T** | **Exam 3 and Programming Test 3** |
+| 14-15 | Mon 13 Apr - Fri 24 Apr | M7 | | |
+| 15 | **Wed 22 Apr - Fri 24 Apr** | | **E T** | **Final Exam and Final Programming Test** <br> No lab; Semester ends Fri (4/24) |
+
+
+Final Exam and Final Programming Test will be available from April 22 - April 24.
+
+
+---
+
+# Course Policies
+
+
+## Attendance
+
+The 
+[AU Policy on Class Attendance](https://sites.auburn.edu/admin/universitypolicies/Policies/PolicyonClassAttendance.pdf) 
+is strictly observed in this course. Refer to the Instructional Mode section of
+this syllabus for a description of all course elements that require attendance.
+Absences are considered unexcused unless the student specifically obtains an
+excused absence from the instructor (see policy below).
+
+Note that *attendance* is only one part of *engagement*. You are expected to
+fully engage in this course and take responsibility for your learning
+experience. Lack of engagement almost always leads to poor course performance.
+
+
+## Excused Absences
+
+To have an absence excused you must first obtain an Excused Absence
+Memo from Engineering Student Services (ESS) for any absence that falls into
+categories 1 through 6 in the AU Policy on Class Attendance. You should contact
+the course instructor directly for other absences.
+
+> Engineering Student Services provides excused absence memos to students who
+> present verifiable documentation related to university excused absences.  The
+> steps for obtaining an excused absence memo are as follows:
+>
+> 1. The student submits the request form using this link: [https://aub.ie/EngAbsence](https://aub.ie/EngAbsence)
+>    - Students submit documentation of the reason for the absence.
+>    - Students must read and acknowledge the excused absence policy.
+>
+> 1. The ESS office staff processes the requests and verifies authenticity of documentation provided by student, as well as the dates of the absence(s).
+>
+> 1. Assistant Dean determines if the documentation meets the standard for a university excused absence or if the documentation warrants consideration by the professor.
+>
+> 1. An official memo is sent directly to professors via email regarding the student’s absence
+
+
+## Exam and Test Makeup
+
+A missed exam or test can only be made up for excused absences (see policy).
+Students must contact the instructor **within 48 hours** from the time that the
+exam or test was given or the exam or test score will remain zero.
+
+In lieu of individual make up exam/test, the grade earned on the final exam/test will
+substitute all excused missed midterm grade.
+
+
+## Late Assignment Submission
+
+All assignments are due on the date and time specified in Canvas,
+but late submissions are accepted until the last day of the semester before the finals week
+for full credit without the need for an Excused Absence Memo. No further extension
+will be given on the late submission deadline. 
+
+
+## Connectivity Issues
+
+If connectivity issues (e.g., Internet connection problems, electrical power
+failures) prevent you from completing an element of the course on time, you must
+notify the instructor immediately when the incident occurs (email to
+`hzk0070@auburn.edu`) and then provide appropriate
+documentation (e.g., service provider notices) within one hour of the incident.
+No extensions or makeup opportunities will be available otherwise. Note that
+excuses for connectivity issues within 30 minutes of an assignment deadline are
+unlikely to be approved. Those situations can be prevented or mitigated with
+planning and time management.
+
+
+## Time Commitment
+
+Auburn University has the following
+[expectation](http://www.auburn.edu/student_info/student_policies/) of the time
+commitment and work that a course will require per credit hour. "*Auburn
+University expects that for each credit hour awarded, an appropriately prepared
+student will complete an average of 3-3.5 hours of academic work per week over
+the length of a 15 week semester.*" This time estimate is independent of
+instructional mode. 
+
+This course carries two credit hours, so at a minimum, an "appropriately
+prepared" student would be expected to
+spend 6 hours each week working on this course. Regardless of the specifics,
+you are expected to allocate an appropriate amount of time for this course. 
+
+
+## Academic Honesty
+
+Academic honesty is critical to the entire educational process and is a
+serious matter in this course. You are expected to apply the 
+[Auburn University Oath of Honor](https://wp.auburn.edu/sga/initatives/academic-affairs/oath-of-honor/)
+to each graded item in this course:
+
+> In accordance with those virtues of Honesty and Truthfulness set forth in the
+> Auburn Creed, I, as a student and fellow member of the Auburn family, do
+> hereby pledge that all work is my own, achieved through personal merit and
+> without any unauthorized aid. In the promotion of integrity, and for the
+> betterment of Auburn, I give honor to this, my oath and obligation.
+
+Issues surrounding violations of academic honesty will be handled per the 
+[Student Academic Honesty Code](https://sites.auburn.edu/admin/universitypolicies/policies/academichonestycode.pdf). 
+You are encouraged to familiarize yourself with this policy and the other 
+resources available from the 
+[Office of Academic Effectiveness](http://www.auburn.edu/academic/provost/academic-effectiveness/academic-honesty.php).
+
+What constitutes cheating on exams and tests is fairly obvious, and everyone
+understands that anything other than individual work on these is wrong. Where
+many students are unsure of what is allowable and what is not allowable is in
+the completion of programming assignments. I encourage students to form study
+groups, help each other learn the course material, and help each other solve
+problems. Collaborative problem solving is a great way to learn. However,
+collaborative problem solving must be restricted to the level of concepts,
+strategies, and algorithms; it should never involve source code. If you're in
+doubt about a certain practice, it's best to ask rather than assume it's okay.
+In certain instances, course work may be completed in groups rather than
+individually, but these instances will be clearly identified by the instructor
+and the collaboration is allowed only within the bounds set by the instructor.
+
+## AI Policy
+
+In this course, students are permitted to use Generative AI Tools like ChatGPT 
+for assignments and to assist in studying, but **not** on exam. To maintain academic integrity, students must disclose 
+any AI-generated material they use and properly attribute it, including in-text 
+citations, quotations, and references. Students should exercise caution and 
+avoid sharing any sensitive or private information when using these tools. Examples 
+of such information include personally identifiable information (PII), protected 
+health information (PHI), financial data, intellectual property (IP), and any 
+other data that might be legally protected.
+
+A student should include the following statement in assignments to indicate use of
+ a Generative AI Tool: “The author(s) would like to acknowledge the use of [Generative AI Tool Name],
+ a language model developed by [Generative AI Tool Provider], in the preparation of this assignment. 
+ The [Generative AI Tool Name] was used in the following way(s) in this assignment 
+ [e.g., brainstorming, grammatical correction, citation, which portion of the assignment].”
+
+
+## Communication with Instructor and Teaching Assistants
+
+Your Auburn University email address (`@auburn.edu`) is the university-approved
+form of communication between instructors and students. Emails that you send to
+the instructor or to a teaching assistant must come from your `@auburn.edu`
+email address. Sending emails from addresses other than `@auburn.edu` could
+result in you not receiving a response to your message. Do not send messages via
+Canvas; instead, send an email.
+
+All course announcements will be posted to Canvas and/or sent to your
+`@auburn.edu` address. All email communications from the instructor to you
+will be sent to your `@auburn.edu` address. Follow the steps in the video
+linked
+[here](https://community.canvaslms.com/t5/Video-Guide/Notification-Preferences-All-Users/ta-p/383690)
+to set your notifications preferences and specify that all course alerts are
+routed to your `@auburn.edu` email address. You are expected to check both
+Canvas and your `@auburn.edu` account daily. 
+
+
+## Getting Help in the Course
+
+If you find yourself struggling academically in this course, please reach out to
+your instructor and/or a teaching assistant as soon as possible. Do not wait
+until the end of the term to seek help for problems that were present weeks
+earlier. The instructor and teaching assistants want to help you, but can not do
+so unless you ask in a timely manner.
+
+
+## Accessibility
+
+Students who need accommodations are asked to electronically submit their
+approved accommodations through AU Access and to arrange a meeting with me
+during the first week of classes, or as soon as possible if accommodations are
+immediately needed. If you need accommodations but have not established them,
+make an appointment with the Office of Accessibility, 1228 Haley Center,
+334-844-2096.
+
+
+## Classroom Behavior
+
+The Auburn University 
+[Policy on Classroom Behavior](https://sites.auburn.edu/admin/universitypolicies/Policies/PolicyonClassroomBehavior.pdf)
+is strictly followed in this course. Note that this policy extends to all
+online elements of this course including Zoom, Honorlock, Vocareum, Piazza,
+and all electronic communication.
+
+
+## Grade Appeals
+
+Scores for all graded items will be posted to Canvas. You will have five
+business days from the date that a score is posted to Canvas to send an email
+to the instructor requesting grade adjustments on your work. If no appeal is
+sent to the instructor after five business days, the score is final. Once the
+five-day appeal period has passed, students forfeit their right to have the
+graded material reassessed at a later date.
+
+To appeal a grade that you have received, send an email to the instructor
+specifying the graded item in question and justifying in a clear, concise
+manner why you think your response should be awarded more points. Once
+received, the instructor may or may not communicate with you regarding your
+appeal. Ultimately, the instructor will render a decision. 
+
+
+## Extended Student Absence
+
+If illness causes you to be unable to participate in the course, please
+contact the insctructor as soon as possible to discuss your options.
+
+
+## Extended Instructor Absence
+
+If illness causes the insctructor to be unable to continue teaching the course, a back-up
+instructor has been selected who will assume all teaching responsibilities to
+ensure that the course will proceed uninterrupted.
+
+
+## Auburn University Transition to Remote Operations
+
+If Auburn University is forced to move to remote operations, the instructional
+modality for this course will be Online Synchronous. No changes to course
+content or schedule would be anticipated, but all such details will be announced
+via Canvas and updated in this syllabus as appropriate. You should personally
+plan now for this contingency to ensure that you will be able to minimize the
+disruption this move could cause to your personal living and study arrangements.
+
+
+## Data Collection and Use Disclosure
+
+Any and all results of graded items in the course are data sources for
+research and assessment, and may be used in publications related to research
+and accreditation. All such use will be anonymous.
+
+## Use of content
+All materials provided as part of this course, whether online or in person, are 
+copyright protected and intended to be used solely for this course.  Further use 
+or distribution to persons not involved in this course is an infringement of 
+university policy.
+
