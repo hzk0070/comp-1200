@@ -3,7 +3,7 @@
 This course will use the
 [MATLAB](https://www.mathworks.com/products/matlab.html) programming
 environment from [MathWorks](https://www.mathworks.com/). MATLAB is widely
-used in engineering practice [across the world](https://uk.mathworks.com/content/dam/mathworks/handout/2020-company-factsheet-8-5x11-8282v20.pdf), 
+used in engineering practice [across the world](https://www.mathworks.com/content/dam/mathworks/fact-sheet/2025-company-factsheet-8-5x11-8282v25.pdf), 
 and it is a common first language for engineering students in colleges and
 universities.
 
