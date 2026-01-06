@@ -14,7 +14,7 @@
 
 - *Lecture meetings*: Lectures will be delivered in person and via Zoom.
 
-- *Lab meetings*: Labs will be delivered in person and via Zoom.
+- *Lab meetings*: Labs will be delivered in person and via Panopto.
 
 - *Exams and Programming Tests*: Exams may be taken in person or online through the use of proctoring software (ProctorU). Programming Test will be delivered online.
 
