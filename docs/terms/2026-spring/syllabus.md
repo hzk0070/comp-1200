@@ -5,7 +5,7 @@
 
 *This syllabus is subject to change. Substantive changes will be announced in Canvas.*
 
-*Published: January 6, 2026*
+*Published: January 6, 2026; Updated: Januray 30, 2026*
 
 ---
 
@@ -143,9 +143,22 @@ Auburn, AL 36849
 Teaching assistants are your first point-of-contact for receiving help on any course materials.
 TAs will hold office hours by appointment only. 
 
-GTA | Email 
---- | ----- 
-TBA            | `TBA`
+| GTA                         | Email              |
+|:----------------------------|:-------------------|
+| Malik Bilal Rahim           | mzr0149@auburn.edu |
+| Maram Aldiabat              | mza0200@auburn.edu |
+| Pedro Vasconcelos           | jpv0016@auburn.edu |
+| Jacob Benken                | jeb0159@auburn.edu |
+| Quang Huy Nguyen            | hqn0001@auburn.edu |
+| Nicolas Sarmiento Rojas     | nzs0102@auburn.edu |
+| Thang Truong                | tht0021@auburn.edu |
+| Uday Sankar                 | uds0001@auburn.edu |
+| Aditi Saha                  | ads0161@auburn.edu |
+| Walaa El Bakri              | wae0010@auburn.edu |
+| Yeshaswee Sai Ganesh Volety | yzv0003@auburn.edu |
+| Matthew Landrum             | mal0024@auburn.edu |
+| Shiva Teja Panjala          | szp0211@auburn.edu |
+| Cathy Zhang                 | xzz0120@auburn.edu |
 
 
 ---
